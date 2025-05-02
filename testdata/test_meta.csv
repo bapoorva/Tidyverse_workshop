@@ -1,0 +1,1973 @@
+Sample,nCount_RNA,nFeature_RNA,Day,CRS,Group,rpca_clusters,possible_anno
+Sample1,1274,829,0,2,Minimal,4,CD4+ T Cells
+Sample1,3381,1736,0,2,Minimal,7,CD16
+Sample1,1350,971,0,2,Minimal,4,CD4+ T Cells
+Sample1,3454,1777,0,2,Minimal,7,CD16
+Sample1,2697,1518,0,2,Minimal,7,CD16
+Sample1,2315,1425,0,2,Minimal,0,CD8+ T Cells
+Sample1,5264,2270,0,2,Minimal,7,CD16
+Sample1,1485,930,0,2,Minimal,8,DC
+Sample1,4029,1853,0,2,Minimal,8,CD16
+Sample1,4029,1853,0,2,Minimal,21,Treg
+Sample1,2045,1333,0,2,Minimal,16,NKT Cells
+Sample1,1720,1116,0,2,Minimal,5,NK cells
+Sample1,1698,1091,0,2,Minimal,0,CD8+ T Cells
+Sample1,2195,1367,0,2,Minimal,12,CD4+ T Cells
+Sample1,1971,1169,0,2,Minimal,8,DC
+Sample1,1991,1210,0,2,Minimal,8,intermediate monocytes
+Sample1,1469,951,0,2,Minimal,8,DC
+Sample1,3220,1672,0,2,Minimal,5,NKT Cells
+Sample1,3038,1587,0,2,Minimal,7,CD16
+Sample1,3239,1825,0,2,Minimal,11,NK cells
+Sample1,4065,1885,0,2,Minimal,8,DC
+Sample1,1893,1152,0,2,Minimal,8,DC
+Sample1,2479,1498,0,2,Minimal,4,CD4+ T Cells
+Sample1,4462,2102,0,2,Minimal,0,CD8+ T Cells
+Sample1,2552,1484,0,2,Minimal,13,NK cells
+Sample1,1807,1127,0,2,Minimal,5,NK cells
+Sample1,3027,1756,0,2,Minimal,13,NKT Cells
+Sample1,4342,2081,0,2,Minimal,7,CD16
+Sample1,2608,1460,0,2,Minimal,7,CD16
+Sample1,4255,2055,0,2,Minimal,10,CD8+ T Cells
+Sample1,1916,1069,0,2,Minimal,0,CD8+ T Cells
+Sample1,1882,1154,0,2,Minimal,8,DC
+Sample1,4821,2398,0,2,Minimal,13,NKT Cells
+Sample1,2261,1398,0,2,Minimal,5,NK cells
+Sample1,2579,1462,0,2,Minimal,0,CD8+ T Cells
+Sample1,3343,1741,0,2,Minimal,0,CD8+ T Cells
+Sample1,1903,1134,0,2,Minimal,8,DC
+Sample1,3874,2088,0,2,Minimal,10,NK cells
+Sample1,2978,1808,0,2,Minimal,11,NK cells
+Sample1,1996,1210,0,2,Minimal,12,CD4+ T Cells
+Sample1,1920,1173,0,2,Minimal,0,CD8+ T Cells
+Sample1,1987,1112,0,2,Minimal,8,DC
+Sample1,1462,973,0,2,Minimal,0,CD8+ T Cells
+Sample1,1856,1125,0,2,Minimal,8,CD16
+Sample1,1992,1211,0,2,Minimal,0,CD8+ T Cells
+Sample1,1916,1226,0,2,Minimal,0,CD8+ T Cells
+Sample1,2544,1372,0,2,Minimal,8,DC
+Sample1,2619,1394,0,2,Minimal,8,CD16
+Sample1,3787,1964,0,2,Minimal,7,CD16
+Sample1,1437,907,0,2,Minimal,0,CD8+ T Cells
+Sample1,3108,1737,0,2,Minimal,7,CD16
+Sample1,1029,764,0,2,Minimal,2,CD8+ T Cells
+Sample1,1948,1197,0,2,Minimal,12,CD4+ T Cells
+Sample1,2426,1439,0,2,Minimal,8,CD4+ T Cells
+Sample1,2169,1277,0,2,Minimal,8,CD16
+Sample1,2613,1566,0,2,Minimal,13,NK cells
+Sample1,1999,1120,0,2,Minimal,8,CD16
+Sample1,2908,1689,0,2,Minimal,5,NK cells
+Sample1,2706,1500,0,2,Minimal,8,CD14
+Sample1,3294,1761,0,2,Minimal,7,CD16
+Sample1,1859,1177,0,2,Minimal,4,CD4+ T Cells
+Sample1,2937,1757,0,2,Minimal,13,NKT Cells
+Sample1,2375,1404,0,2,Minimal,16,NK cells
+Sample1,2760,1423,0,2,Minimal,8,DC
+Sample1,2041,1298,0,2,Minimal,13,NK cells
+Sample1,1798,1097,0,2,Minimal,8,DC
+Sample1,1470,992,0,2,Minimal,0,CD8+ T Cells
+Sample1,5165,2287,0,2,Minimal,7,CD16
+Sample1,4969,2109,0,2,Minimal,19,DC
+Sample1,2335,1357,0,2,Minimal,8,DC
+Sample1,2151,1283,0,2,Minimal,8,DC
+Sample1,2377,1402,0,2,Minimal,0,CD8+ T Cells
+Sample1,1658,1080,0,2,Minimal,8,DC
+Sample1,5841,2662,0,2,Minimal,11,CD8+ T Cells
+Sample1,2690,1475,0,2,Minimal,7,DC
+Sample1,2374,1429,0,2,Minimal,0,CD8+ T Cells
+Sample1,2394,1338,0,2,Minimal,8,DC
+Sample1,1961,1275,0,2,Minimal,0,CD8+ T Cells
+Sample1,1512,1036,0,2,Minimal,5,NKT Cells
+Sample1,1498,1017,0,2,Minimal,13,NK cells
+Sample1,2553,1479,0,2,Minimal,16,NK cells
+Sample1,1134,796,0,2,Minimal,4,CD4+ T Cells
+Sample1,4184,2008,0,2,Minimal,8,DC
+Sample1,2473,1433,0,2,Minimal,8,CD16
+Sample1,2426,1315,0,2,Minimal,8,DC
+Sample1,2387,1403,0,2,Minimal,0,CD8+ T Cells
+Sample1,2150,1275,0,2,Minimal,4,CD4+ T Cells
+Sample1,1971,1258,0,2,Minimal,0,CD8+ T Cells
+Sample1,2469,1399,0,2,Minimal,7,CD14
+Sample1,2069,1271,0,2,Minimal,7,CD16
+Sample1,2001,1255,0,2,Minimal,11,NK cells
+Sample1,1761,1089,0,2,Minimal,0,CD8+ T Cells
+Sample1,5418,2517,0,2,Minimal,11,NK cells
+Sample1,2249,1301,0,2,Minimal,8,DC
+Sample1,2657,1549,0,2,Minimal,5,NK cells
+Sample1,2075,1299,0,2,Minimal,0,CD8+ T Cells
+Sample1,914,563,0,2,Minimal,7,DC
+Sample1,1818,1095,0,2,Minimal,8,DC
+Sample1,1849,1166,0,2,Minimal,5,NK cells
+Sample1,2433,1358,0,2,Minimal,8,DC
+Sample1,2040,1254,0,2,Minimal,0,CD8+ T Cells
+Sample1,2604,1469,0,2,Minimal,8,DC
+Sample1,3261,1709,0,2,Minimal,7,CD16
+Sample1,2425,1441,0,2,Minimal,5,NKT Cells
+Sample1,2743,1434,0,2,Minimal,8,DC
+Sample1,4424,2318,0,2,Minimal,11,NK cells
+Sample1,4946,2172,0,2,Minimal,7,CD16
+Sample1,4065,1824,0,2,Minimal,19,DC
+Sample1,4699,2124,0,2,Minimal,7,CD16
+Sample1,3319,1894,0,2,Minimal,5,NKT Cells
+Sample1,1616,1074,0,2,Minimal,0,CD8+ T Cells
+Sample1,2589,1422,0,2,Minimal,7,DC
+Sample1,1538,1059,0,2,Minimal,16,NK cells
+Sample1,5526,2542,0,2,Minimal,8,intermediate monocytes
+Sample1,1747,1143,0,2,Minimal,5,NK cells
+Sample1,2531,1361,0,2,Minimal,8,CD14
+Sample1,3475,1738,0,2,Minimal,8,CD14
+Sample1,1797,1236,0,2,Minimal,5,NK cells
+Sample1,1998,1197,0,2,Minimal,4,CD4+ T Cells
+Sample1,3509,1677,0,2,Minimal,8,DC
+Sample1,4631,2332,0,2,Minimal,0,CD8+ T Cells
+Sample1,2811,1618,0,2,Minimal,5,NKT Cells
+Sample1,3335,1633,0,2,Minimal,8,DC
+Sample1,2331,1266,0,2,Minimal,8,DC
+Sample1,5151,2584,0,2,Minimal,11,NK cells
+Sample1,1338,840,0,2,Minimal,8,DC
+Sample1,1603,990,0,2,Minimal,4,CD4+ T Cells
+Sample1,2014,1153,0,2,Minimal,8,DC
+Sample1,1811,1113,0,2,Minimal,4,CD4+ T Cells
+Sample1,2047,1279,0,2,Minimal,0,CD8+ T Cells
+Sample1,2505,1448,0,2,Minimal,0,CD8+ T Cells
+Sample1,1412,941,0,2,Minimal,8,CD16
+Sample1,2165,1275,0,2,Minimal,8,DC
+Sample1,1948,1146,0,2,Minimal,8,DC
+Sample1,2399,1334,0,2,Minimal,7,intermediate monocytes
+Sample1,5202,2534,0,2,Minimal,11,NKT Cells
+Sample1,1112,759,0,2,Minimal,8,DC
+Sample1,2601,1376,0,2,Minimal,8,DC
+Sample1,2488,1405,0,2,Minimal,7,DC
+Sample1,1752,1108,0,2,Minimal,12,CD4+ T Cells
+Sample1,2540,1414,0,2,Minimal,7,CD16
+Sample1,3641,2021,0,2,Minimal,10,NK cells
+Sample1,2633,1352,0,2,Minimal,8,DC
+Sample1,3719,1773,0,2,Minimal,8,DC
+Sample1,1849,1101,0,2,Minimal,8,DC
+Sample1,1680,1034,0,2,Minimal,8,CD4+ T Cells
+Sample1,4555,1857,0,2,Minimal,8,intermediate monocytes
+Sample1,2053,1299,0,2,Minimal,0,CD8+ T Cells
+Sample1,1312,922,0,2,Minimal,8,DC
+Sample1,2225,1209,0,2,Minimal,8,DC
+Sample1,1834,1206,0,2,Minimal,5,NK cells
+Sample1,3272,1814,0,2,Minimal,5,NK cells
+Sample1,4863,2412,0,2,Minimal,11,CD8+ T Cells
+Sample1,1917,1117,0,2,Minimal,8,CD16
+Sample1,1756,1231,0,2,Minimal,0,CD8+ T Cells
+Sample1,4103,1996,0,2,Minimal,7,DC
+Sample1,5857,2659,0,2,Minimal,11,NK cells
+Sample1,4917,2097,0,2,Minimal,7,CD16
+Sample1,2262,1328,0,2,Minimal,8,CD4+ T Cells
+Sample1,2021,1143,0,2,Minimal,8,DC
+Sample1,1985,1292,0,2,Minimal,5,NKT Cells
+Sample1,2501,1405,0,2,Minimal,8,DC
+Sample1,1067,765,0,2,Minimal,8,DC
+Sample1,1681,1031,0,2,Minimal,8,DC
+Sample1,2554,1402,0,2,Minimal,8,DC
+Sample1,2799,1569,0,2,Minimal,7,CD16
+Sample1,1785,1135,0,2,Minimal,8,CD16
+Sample1,3143,1663,0,2,Minimal,7,CD16
+Sample1,3112,1627,0,2,Minimal,8,CD4+ T Cells
+Sample1,2881,1548,0,2,Minimal,8,CD16
+Sample1,2126,1301,0,2,Minimal,0,CD8+ T Cells
+Sample1,1898,1221,0,2,Minimal,4,CD8+ T Cells
+Sample1,2795,1459,0,2,Minimal,8,intermediate monocytes
+Sample1,3008,1575,0,2,Minimal,7,DC
+Sample1,2107,1276,0,2,Minimal,0,CD8+ T Cells
+Sample1,299,232,0,2,Minimal,2,CD8+ T Cells
+Sample1,3168,1714,0,2,Minimal,19,DC
+Sample1,2091,1272,0,2,Minimal,8,DC
+Sample1,2646,1431,0,2,Minimal,8,DC
+Sample1,3385,1747,0,2,Minimal,7,CD16
+Sample1,2891,1504,0,2,Minimal,8,DC
+Sample1,1907,1231,0,2,Minimal,5,NK cells
+Sample1,1285,806,0,2,Minimal,8,DC
+Sample1,2918,1579,0,2,Minimal,7,CD16
+Sample1,3176,1631,0,2,Minimal,7,DC
+Sample1,761,580,0,2,Minimal,2,CD8+ T Cells
+Sample1,6317,2623,0,2,Minimal,7,DC
+Sample1,2361,1330,0,2,Minimal,7,DC
+Sample1,2773,1716,0,2,Minimal,11,NK cells
+Sample1,3162,1655,0,2,Minimal,7,DC
+Sample1,4368,2173,0,2,Minimal,0,CD8+ T Cells
+Sample1,1245,815,0,2,Minimal,0,CD8+ T Cells
+Sample1,2590,1377,0,2,Minimal,8,DC
+Sample1,2878,1614,0,2,Minimal,13,NK cells
+Sample1,2304,1381,0,2,Minimal,16,NKT Cells
+Sample1,2250,1334,0,2,Minimal,5,NK cells
+Sample1,3487,1727,0,2,Minimal,19,DC
+Sample1,2022,1296,0,2,Minimal,0,CD8+ T Cells
+Sample1,2217,1379,0,2,Minimal,7,CD14
+Sample1,2656,1456,0,2,Minimal,8,DC
+Sample1,1540,1006,0,2,Minimal,5,NKT Cells
+Sample1,1903,1159,0,2,Minimal,8,CD14
+Sample1,2828,1725,0,2,Minimal,13,NK cells
+Sample1,3023,1582,0,2,Minimal,7,CD16
+Sample1,3108,1589,0,2,Minimal,8,DC
+Sample1,4125,2029,0,2,Minimal,7,CD16
+Sample1,3217,1679,0,2,Minimal,7,CD16
+Sample1,2471,1527,0,2,Minimal,13,NK cells
+Sample1,3459,1948,0,2,Minimal,7,CD4+ T Cells
+Sample1,2328,1360,0,2,Minimal,8,DC
+Sample1,2050,1348,0,2,Minimal,10,NK cells
+Sample1,3127,1697,0,2,Minimal,8,DC
+Sample1,2824,1532,0,2,Minimal,7,CD16
+Sample1,4891,2036,0,2,Minimal,19,DC
+Sample1,2164,1401,0,2,Minimal,5,NK cells
+Sample1,1153,843,0,2,Minimal,16,NK cells
+Sample1,2003,1258,0,2,Minimal,0,CD8+ T Cells
+Sample1,4912,2298,0,2,Minimal,1,CD8+ T Cells
+Sample1,2399,1372,0,2,Minimal,7,DC
+Sample1,2014,1234,0,2,Minimal,0,CD8+ T Cells
+Sample1,1375,895,0,2,Minimal,8,DC
+Sample1,5299,2203,0,2,Minimal,8,CD16
+Sample1,5021,2237,0,2,Minimal,7,CD16
+Sample1,1599,1027,0,2,Minimal,0,CD8+ T Cells
+Sample1,3885,1929,0,2,Minimal,8,DC
+Sample1,1215,889,0,2,Minimal,0,CD8+ T Cells
+Sample1,2588,1474,0,2,Minimal,7,CD16
+Sample1,2118,1200,0,2,Minimal,8,DC
+Sample1,3082,1608,0,2,Minimal,8,CD16
+Sample1,975,683,0,2,Minimal,8,CD16
+Sample1,1484,1010,0,2,Minimal,5,NK cells
+Sample1,3278,1622,0,2,Minimal,8,DC
+Sample1,2615,1337,0,2,Minimal,8,DC
+Sample1,1769,1067,0,2,Minimal,8,DC
+Sample1,5612,2404,0,2,Minimal,7,intermediate monocytes
+Sample1,3022,1677,0,2,Minimal,5,NK cells
+Sample1,2104,1334,0,2,Minimal,0,CD8+ T Cells
+Sample1,3588,1736,0,2,Minimal,8,DC
+Sample1,2978,1689,0,2,Minimal,0,CD8+ T Cells
+Sample1,3765,2045,0,2,Minimal,5,NK cells
+Sample1,2343,1261,0,2,Minimal,8,DC
+Sample1,1195,770,0,2,Minimal,0,CD8+ T Cells
+Sample1,3940,2050,0,2,Minimal,7,CD4+ T Cells
+Sample1,5203,2204,0,2,Minimal,7,DC
+Sample1,2153,1243,0,2,Minimal,8,DC
+Sample1,2307,1332,0,2,Minimal,4,CD4+ T Cells
+Sample1,1896,1224,0,2,Minimal,5,NKT Cells
+Sample1,2666,1449,0,2,Minimal,8,DC
+Sample1,3693,1843,0,2,Minimal,7,CD16
+Sample1,3938,1948,0,2,Minimal,7,CD16
+Sample1,2246,1245,0,2,Minimal,8,DC
+Sample1,2531,1501,0,2,Minimal,0,CD8+ T Cells
+Sample1,2492,1456,0,2,Minimal,0,CD8+ T Cells
+Sample1,3228,1720,0,2,Minimal,8,DC
+Sample1,1096,763,0,2,Minimal,8,DC
+Sample1,3384,1601,0,2,Minimal,8,CD16
+Sample1,2323,1264,0,2,Minimal,8,DC
+Sample1,1177,825,0,2,Minimal,0,NK cells
+Sample1,1854,1191,0,2,Minimal,5,NK cells
+Sample1,3268,1734,0,2,Minimal,0,CD8+ T Cells
+Sample1,1744,1090,0,2,Minimal,8,CD4+ T Cells
+Sample1,5047,2442,0,2,Minimal,11,NK cells
+Sample1,2218,1406,0,2,Minimal,5,NK cells
+Sample1,2286,1313,0,2,Minimal,8,CD16
+Sample1,5667,2482,0,2,Minimal,8,CD16
+Sample1,2472,1393,0,2,Minimal,8,DC
+Sample1,2339,1400,0,2,Minimal,16,NK cells
+Sample1,2537,1495,0,2,Minimal,4,CD4+ T Cells
+Sample1,3028,1641,0,2,Minimal,8,DC
+Sample1,2207,1251,0,2,Minimal,8,CD16
+Sample1,2881,1694,0,2,Minimal,0,CD8+ T Cells
+Sample1,2088,1169,0,2,Minimal,8,DC
+Sample1,2274,1336,0,2,Minimal,0,CD8+ T Cells
+Sample1,2446,1433,0,2,Minimal,8,DC
+Sample1,3659,1937,0,2,Minimal,13,NK cells
+Sample1,2393,1364,0,2,Minimal,8,CD16
+Sample1,2498,1346,0,2,Minimal,8,intermediate monocytes
+Sample1,2177,1318,0,2,Minimal,4,CD4+ T Cells
+Sample1,1936,1152,0,2,Minimal,0,CD8+ T Cells
+Sample1,2915,1559,0,2,Minimal,8,DC
+Sample1,1750,1151,0,2,Minimal,5,NK cells
+Sample1,2912,1469,0,2,Minimal,8,DC
+Sample1,1533,984,0,2,Minimal,8,DC
+Sample1,2660,1615,0,2,Minimal,13,NKT Cells
+Sample1,1950,1222,0,2,Minimal,5,NK cells
+Sample1,1859,1108,0,2,Minimal,8,DC
+Sample1,2857,1585,0,2,Minimal,5,NKT Cells
+Sample1,3622,1994,0,2,Minimal,11,NKT Cells
+Sample1,3452,1618,0,2,Minimal,19,DC
+Sample1,1905,1124,0,2,Minimal,8,CD16
+Sample1,3278,1865,0,2,Minimal,10,CD8+ T Cells
+Sample1,3612,1770,0,2,Minimal,8,CD16
+Sample1,1376,911,0,2,Minimal,8,DC
+Sample1,3537,1880,0,2,Minimal,7,CD16
+Sample1,4359,2049,0,2,Minimal,7,CD16
+Sample1,1905,1183,0,2,Minimal,5,NKT Cells
+Sample1,3456,1699,0,2,Minimal,8,CD4+ T Cells
+Sample1,3587,1809,0,2,Minimal,7,CD16
+Sample1,3664,1931,0,2,Minimal,8,DC
+Sample1,2349,1299,0,2,Minimal,8,DC
+Sample1,2282,1467,0,2,Minimal,13,NK cells
+Sample2,3424,1715,0,4,Severe,5,NK cells
+Sample2,2484,1371,0,4,Severe,5,NK cells
+Sample2,968,752,0,4,Severe,7,CD16
+Sample2,2525,1429,0,4,Severe,0,GDT cells
+Sample2,2641,1497,0,4,Severe,5,NK cells
+Sample2,3169,1625,0,4,Severe,0,GDT cells
+Sample2,2357,1325,0,4,Severe,5,NK cells
+Sample2,4198,1985,0,4,Severe,0,GDT cells
+Sample2,3771,1792,0,4,Severe,0,GDT cells
+Sample2,4103,1884,0,4,Severe,0,GDT cells
+Sample2,4612,2158,0,4,Severe,0,CD8+ T Cells
+Sample2,2482,1396,0,4,Severe,0,GDT cells
+Sample2,2957,1429,0,4,Severe,0,GDT cells
+Sample2,3003,1533,0,4,Severe,5,NK cells
+Sample2,5610,2371,0,4,Severe,0,GDT cells
+Sample2,3473,1723,0,4,Severe,0,GDT cells
+Sample2,382,334,0,4,Severe,2,CD8+ T Cells
+Sample2,3511,1785,0,4,Severe,0,GDT cells
+Sample2,4235,1879,0,4,Severe,4,CD4+ T Cells
+Sample2,3757,1927,0,4,Severe,0,GDT cells
+Sample2,2819,1552,0,4,Severe,5,NK cells
+Sample2,4037,1814,0,4,Severe,0,GDT cells
+Sample2,4324,1880,0,4,Severe,15,CD4+ T Cells
+Sample2,3736,1766,0,4,Severe,0,GDT cells
+Sample2,2412,1435,0,4,Severe,5,NK cells
+Sample2,2830,1481,0,4,Severe,0,GDT cells
+Sample2,3991,1711,0,4,Severe,12,CD4+ T Cells
+Sample2,2479,1416,0,4,Severe,5,NK cells
+Sample2,2776,1471,0,4,Severe,5,NK cells
+Sample2,4865,2189,0,4,Severe,0,GDT cells
+Sample2,3188,1600,0,4,Severe,0,GDT cells
+Sample2,6317,2451,0,4,Severe,12,CD4+ T Cells
+Sample2,3494,1598,0,4,Severe,4,CD4+ T Cells
+Sample2,4915,2077,0,4,Severe,0,GDT cells
+Sample2,3578,1719,0,4,Severe,0,GDT cells
+Sample2,3800,1805,0,4,Severe,0,GDT cells
+Sample2,3655,1832,0,4,Severe,5,NKT Cells
+Sample2,3917,1826,0,4,Severe,0,GDT cells
+Sample2,3164,1716,0,4,Severe,5,NK cells
+Sample2,4390,1998,0,4,Severe,0,GDT cells
+Sample2,3090,1479,0,4,Severe,15,CD4+ T Cells
+Sample2,3545,1668,0,4,Severe,0,GDT cells
+Sample2,3305,1818,0,4,Severe,5,NKT Cells
+Sample2,2576,1370,0,4,Severe,0,GDT cells
+Sample2,3936,1714,0,4,Severe,4,CD4+ T Cells
+Sample2,3443,1755,0,4,Severe,5,NK cells
+Sample2,3061,1668,0,4,Severe,5,NK cells
+Sample2,2861,1438,0,4,Severe,0,GDT cells
+Sample2,3238,1631,0,4,Severe,0,GDT cells
+Sample2,2209,1203,0,4,Severe,0,GDT cells
+Sample2,3160,1584,0,4,Severe,5,NK cells
+Sample2,2399,1238,0,4,Severe,0,GDT cells
+Sample2,2652,1481,0,4,Severe,5,NK cells
+Sample2,3262,1637,0,4,Severe,5,NK cells
+Sample2,2608,1420,0,4,Severe,5,GDT cells
+Sample2,2348,1379,0,4,Severe,0,GDT cells
+Sample2,2468,1344,0,4,Severe,15,CD4+ T Cells
+Sample2,5252,2499,0,4,Severe,0,GDT cells
+Sample2,2920,1505,0,4,Severe,5,GDT cells
+Sample2,2285,1221,0,4,Severe,0,GDT cells
+Sample2,4710,2052,0,4,Severe,0,GDT cells
+Sample2,1879,1175,0,4,Severe,5,NKT Cells
+Sample2,3207,1353,0,4,Severe,15,CD4+ T Cells
+Sample2,3447,1711,0,4,Severe,4,CD4+ T Cells
+Sample2,3486,1743,0,4,Severe,0,GDT cells
+Sample2,3348,1689,0,4,Severe,0,GDT cells
+Sample2,3448,1708,0,4,Severe,0,GDT cells
+Sample2,3376,1753,0,4,Severe,0,GDT cells
+Sample2,2789,1365,0,4,Severe,0,GDT cells
+Sample2,3266,1607,0,4,Severe,0,GDT cells
+Sample2,4541,2039,0,4,Severe,0,GDT cells
+Sample2,4302,1990,0,4,Severe,4,CD4+ T Cells
+Sample2,2015,1146,0,4,Severe,5,NK cells
+Sample2,2723,1448,0,4,Severe,0,GDT cells
+Sample2,4076,1952,0,4,Severe,0,GDT cells
+Sample2,5212,2303,0,4,Severe,5,NK cells
+Sample2,3541,1965,0,4,Severe,13,NKT Cells
+Sample2,5028,2079,0,4,Severe,0,GDT cells
+Sample2,3900,1783,0,4,Severe,4,CD4+ T Cells
+Sample2,3310,1632,0,4,Severe,0,GDT cells
+Sample2,2001,1088,0,4,Severe,12,CD4+ T Cells
+Sample2,3569,1801,0,4,Severe,0,GDT cells
+Sample2,4015,2024,0,4,Severe,5,NKT Cells
+Sample2,448,368,0,4,Severe,0,GDT cells
+Sample2,4811,2209,0,4,Severe,10,GDT cells
+Sample2,3277,1695,0,4,Severe,0,GDT cells
+Sample2,2673,1481,0,4,Severe,0,GDT cells
+Sample2,2643,1435,0,4,Severe,5,NK cells
+Sample2,1857,1110,0,4,Severe,15,CD4+ T Cells
+Sample2,3205,1733,0,4,Severe,0,GDT cells
+Sample2,2996,1590,0,4,Severe,0,GDT cells
+Sample2,3756,1937,0,4,Severe,4,CD4+ T Cells
+Sample2,4498,2005,0,4,Severe,0,GDT cells
+Sample2,4243,1875,0,4,Severe,12,CD4+ T Cells
+Sample2,4109,1858,0,4,Severe,0,GDT cells
+Sample2,3209,1594,0,4,Severe,0,GDT cells
+Sample2,3072,1630,0,4,Severe,5,NK cells
+Sample2,4296,1940,0,4,Severe,0,GDT cells
+Sample2,3259,1568,0,4,Severe,0,GDT cells
+Sample2,2961,1523,0,4,Severe,5,NK cells
+Sample2,3757,1876,0,4,Severe,0,GDT cells
+Sample2,3313,1570,0,4,Severe,4,CD4+ T Cells
+Sample2,3507,1835,0,4,Severe,4,CD4+ T Cells
+Sample2,4262,2157,0,4,Severe,0,GDT cells
+Sample2,4103,1953,0,4,Severe,5,NK cells
+Sample2,3614,1759,0,4,Severe,0,GDT cells
+Sample2,3587,1788,0,4,Severe,0,GDT cells
+Sample2,2547,1282,0,4,Severe,15,CD4+ T Cells
+Sample2,2519,1349,0,4,Severe,5,NK cells
+Sample2,1855,1140,0,4,Severe,5,NK cells
+Sample2,3145,1626,0,4,Severe,0,GDT cells
+Sample2,4292,1958,0,4,Severe,0,GDT cells
+Sample2,5981,2706,0,4,Severe,0,GDT cells
+Sample2,2828,1519,0,4,Severe,0,GDT cells
+Sample2,2956,1398,0,4,Severe,4,CD4+ T Cells
+Sample2,2557,1347,0,4,Severe,5,NK cells
+Sample2,3282,1721,0,4,Severe,5,NKT Cells
+Sample2,3345,1691,0,4,Severe,5,NK cells
+Sample2,3182,1571,0,4,Severe,0,GDT cells
+Sample2,3107,1586,0,4,Severe,0,GDT cells
+Sample3,6677,2853,0,4,Severe,0,CD8+ T Cells
+Sample3,19489,4566,0,4,Severe,7,CD16
+Sample3,6333,2524,0,4,Severe,5,NK cells
+Sample3,16408,4327,0,4,Severe,7,CD16
+Sample3,11287,3822,0,4,Severe,7,CD14
+Sample3,9739,3501,0,4,Severe,7,CD14
+Sample3,6974,2763,0,4,Severe,7,intermediate monocytes
+Sample3,4177,2011,0,4,Severe,8,CD14
+Sample3,10383,3631,0,4,Severe,7,CD16
+Sample3,11634,3783,0,4,Severe,7,CD14
+Sample3,3625,2010,0,4,Severe,0,GDT cells
+Sample3,17782,4276,0,4,Severe,7,intermediate monocytes
+Sample3,8190,3096,0,4,Severe,7,CD16
+Sample3,4003,2029,0,4,Severe,8,CD14
+Sample3,22300,4543,0,4,Severe,7,CD16
+Sample3,3918,1990,0,4,Severe,16,NK cells
+Sample3,7479,2971,0,4,Severe,7,CD14
+Sample3,4924,2294,0,4,Severe,5,NKT Cells
+Sample3,11619,3450,0,4,Severe,7,intermediate monocytes
+Sample3,9895,3182,0,4,Severe,5,NKT Cells
+Sample3,4802,2320,0,4,Severe,8,CD14
+Sample3,19634,4725,0,4,Severe,7,CD14
+Sample3,15608,4165,0,4,Severe,7,CD14
+Sample3,13366,4183,0,4,Severe,7,CD16
+Sample3,12118,3817,0,4,Severe,7,CD16
+Sample3,512,381,0,4,Severe,2,CD8+ T Cells
+Sample3,6012,2803,0,4,Severe,5,NKT Cells
+Sample3,5843,2538,0,4,Severe,7,CD14
+Sample3,4927,2578,0,4,Severe,0,GDT cells
+Sample3,5569,2553,0,4,Severe,7,intermediate monocytes
+Sample3,16626,4322,0,4,Severe,7,CD14
+Sample3,11240,3983,0,4,Severe,7,CD16
+Sample3,21355,4830,0,4,Severe,7,CD16
+Sample3,4237,1983,0,4,Severe,5,NK cells
+Sample3,5448,2675,0,4,Severe,5,NK cells
+Sample3,7694,3035,0,4,Severe,12,CD4+ T Cells
+Sample3,15232,4037,0,4,Severe,7,intermediate monocytes
+Sample3,7438,3149,0,4,Severe,0,GDT cells
+Sample3,5055,2506,0,4,Severe,16,NK cells
+Sample3,5038,2619,0,4,Severe,0,GDT cells
+Sample3,4963,2232,0,4,Severe,0,GDT cells
+Sample3,10368,3489,0,4,Severe,8,CD14
+Sample3,8123,2899,0,4,Severe,8,CD14
+Sample3,11132,3649,0,4,Severe,7,CD16
+Sample3,9734,3607,0,4,Severe,7,CD16
+Sample3,5045,2463,0,4,Severe,5,NKT Cells
+Sample3,4743,2323,0,4,Severe,0,GDT cells
+Sample3,4472,2010,0,4,Severe,5,NK cells
+Sample3,19926,4668,0,4,Severe,7,intermediate monocytes
+Sample3,7716,3342,0,4,Severe,5,NKT Cells
+Sample3,2950,1629,0,4,Severe,0,GDT cells
+Sample3,7070,2780,0,4,Severe,7,CD16
+Sample3,21247,4750,0,4,Severe,7,CD14
+Sample3,12774,3964,0,4,Severe,8,CD14
+Sample3,15272,4232,0,4,Severe,7,CD14
+Sample3,9985,3812,0,4,Severe,5,NK cells
+Sample3,18282,4218,0,4,Severe,7,CD16
+Sample3,16828,4543,0,4,Severe,7,CD16
+Sample3,13284,3984,0,4,Severe,7,CD16
+Sample3,18688,4773,0,4,Severe,7,intermediate monocytes
+Sample3,1471,906,0,4,Severe,7,CD16
+Sample3,7379,3015,0,4,Severe,7,CD14
+Sample3,9996,3326,0,4,Severe,7,CD16
+Sample3,13414,3837,0,4,Severe,7,CD14
+Sample3,26148,4719,0,4,Severe,19,DC
+Sample3,12834,4038,0,4,Severe,7,CD16
+Sample3,5017,2442,0,4,Severe,0,GDT cells
+Sample3,3718,1949,0,4,Severe,16,NK cells
+Sample3,15274,4284,0,4,Severe,7,CD16
+Sample3,3585,1839,0,4,Severe,0,GDT cells
+Sample3,9042,3348,0,4,Severe,7,CD16
+Sample3,4054,1907,0,4,Severe,7,CD16
+Sample3,15061,3733,0,4,Severe,12,CD4+ T Cells
+Sample3,10155,3376,0,4,Severe,7,CD16
+Sample3,16044,4200,0,4,Severe,7,intermediate monocytes
+Sample3,17867,4183,0,4,Severe,7,CD14
+Sample3,10758,3723,0,4,Severe,7,CD16
+Sample3,7902,3035,0,4,Severe,7,intermediate monocytes
+Sample3,8782,3344,0,4,Severe,7,CD16
+Sample3,870,575,0,4,Severe,7,CD16
+Sample3,3026,1432,0,4,Severe,7,intermediate monocytes
+Sample3,1991,1227,0,4,Severe,5,NKT Cells
+Sample3,12338,3846,0,4,Severe,7,CD14
+Sample3,12191,3806,0,4,Severe,7,CD16
+Sample3,11396,3637,0,4,Severe,7,intermediate monocytes
+Sample3,17007,4347,0,4,Severe,7,intermediate monocytes
+Sample3,9308,3421,0,4,Severe,7,CD16
+Sample3,10364,3635,0,4,Severe,7,CD16
+Sample3,9541,3744,0,4,Severe,7,CD14
+Sample3,8161,2807,0,4,Severe,5,NKT Cells
+Sample3,9199,3628,0,4,Severe,0,CD8+ T Cells
+Sample3,9783,3073,0,4,Severe,8,CD14
+Sample3,13652,4214,0,4,Severe,7,CD16
+Sample3,20538,4302,0,4,Severe,19,DC
+Sample3,10695,3422,0,4,Severe,8,CD14
+Sample3,4089,2036,0,4,Severe,5,NKT Cells
+Sample3,3089,1318,0,4,Severe,7,CD16
+Sample3,11703,3612,0,4,Severe,8,CD14
+Sample3,4405,2257,0,4,Severe,0,GDT cells
+Sample3,5375,2443,0,4,Severe,7,CD14
+Sample3,7007,2622,0,4,Severe,8,CD14
+Sample3,4882,2082,0,4,Severe,8,CD14
+Sample3,16042,4231,0,4,Severe,7,CD14
+Sample3,7167,3316,0,4,Severe,10,NKT Cells
+Sample3,11699,3684,0,4,Severe,7,CD14
+Sample3,8235,2813,0,4,Severe,7,intermediate monocytes
+Sample3,16461,4337,0,4,Severe,7,CD14
+Sample3,19017,4635,0,4,Severe,7,CD14
+Sample3,669,486,0,4,Severe,7,CD16
+Sample3,11807,3940,0,4,Severe,7,CD16
+Sample3,11404,3967,0,4,Severe,7,CD16
+Sample3,19433,4531,0,4,Severe,7,CD14
+Sample3,1057,710,0,4,Severe,7,intermediate monocytes
+Sample3,13430,3917,0,4,Severe,7,CD14
+Sample3,9860,3574,0,4,Severe,7,CD16
+Sample3,6048,2775,0,4,Severe,5,NKT Cells
+Sample3,10351,3708,0,4,Severe,7,CD16
+Sample3,9852,3408,0,4,Severe,8,CD14
+Sample3,4814,2318,0,4,Severe,0,CD8+ T Cells
+Sample3,3877,1857,0,4,Severe,5,NK cells
+Sample3,9108,3368,0,4,Severe,7,CD16
+Sample3,18649,4698,0,4,Severe,7,intermediate monocytes
+Sample3,10616,3376,0,4,Severe,8,CD14
+Sample3,10951,3503,0,4,Severe,7,CD16
+Sample3,11560,3621,0,4,Severe,7,CD16
+Sample3,9989,3607,0,4,Severe,7,CD14
+Sample3,6234,2797,0,4,Severe,8,CD14
+Sample3,4243,2192,0,4,Severe,0,GDT cells
+Sample3,3873,2013,0,4,Severe,0,NKT Cells
+Sample3,17240,4518,0,4,Severe,7,intermediate monocytes
+Sample3,16437,4465,0,4,Severe,7,intermediate monocytes
+Sample3,10073,3429,0,4,Severe,7,CD16
+Sample3,4981,2394,0,4,Severe,16,NK cells
+Sample3,3094,1727,0,4,Severe,16,NK cells
+Sample3,9582,3516,0,4,Severe,7,CD14
+Sample3,20672,4655,0,4,Severe,7,CD16
+Sample3,3241,1375,0,4,Severe,7,intermediate monocytes
+Sample3,10451,3664,0,4,Severe,7,intermediate monocytes
+Sample3,5834,2588,0,4,Severe,0,GDT cells
+Sample3,5485,2426,0,4,Severe,5,NK cells
+Sample3,7024,2870,0,4,Severe,7,CD14
+Sample3,5926,2599,0,4,Severe,5,NK cells
+Sample3,3973,2055,0,4,Severe,0,GDT cells
+Sample3,14304,4058,0,4,Severe,7,intermediate monocytes
+Sample3,7584,3515,0,4,Severe,11,NKT Cells
+Sample3,3873,1998,0,4,Severe,5,NK cells
+Sample3,4561,2264,0,4,Severe,8,CD14
+Sample3,22161,4795,0,4,Severe,7,intermediate monocytes
+Sample3,7270,2558,0,4,Severe,5,NKT Cells
+Sample3,24547,4729,0,4,Severe,7,CD16
+Sample3,5811,2557,0,4,Severe,7,intermediate monocytes
+Sample3,7812,3040,0,4,Severe,7,CD16
+Sample3,16205,4374,0,4,Severe,7,intermediate monocytes
+Sample3,8839,3179,0,4,Severe,7,CD16
+Sample3,9190,3092,0,4,Severe,7,intermediate monocytes
+Sample3,6333,2670,0,4,Severe,5,NKT Cells
+Sample3,2810,1591,0,4,Severe,8,CD14
+Sample3,5647,2570,0,4,Severe,0,GDT cells
+Sample3,4148,2139,0,4,Severe,16,NK cells
+Sample3,15466,4189,0,4,Severe,7,CD16
+Sample3,12294,3935,0,4,Severe,7,intermediate monocytes
+Sample3,4371,2236,0,4,Severe,5,NK cells
+Sample3,10677,3467,0,4,Severe,7,CD16
+Sample3,3289,1747,0,4,Severe,12,CD4+ T Cells
+Sample3,741,587,0,4,Severe,0,NKT Cells
+Sample3,13344,4076,0,4,Severe,7,CD16
+Sample3,13815,4056,0,4,Severe,7,CD14
+Sample3,14978,4333,0,4,Severe,7,CD16
+Sample3,8826,2880,0,4,Severe,5,NKT Cells
+Sample3,19706,4186,0,4,Severe,7,CD16
+Sample3,5827,2681,0,4,Severe,5,NKT Cells
+Sample3,6753,2856,0,4,Severe,5,NKT Cells
+Sample3,11493,3586,0,4,Severe,7,CD16
+Sample3,15466,4286,0,4,Severe,19,DC
+Sample3,6443,2915,0,4,Severe,13,NKT Cells
+Sample3,7035,2684,0,4,Severe,8,CD14
+Sample3,7800,2827,0,4,Severe,7,CD16
+Sample3,12001,3682,0,4,Severe,7,CD16
+Sample3,10657,3733,0,4,Severe,7,CD16
+Sample3,7053,2752,0,4,Severe,8,CD14
+Sample3,7289,2866,0,4,Severe,7,CD14
+Sample3,12503,3911,0,4,Severe,7,CD14
+Sample3,4304,2058,0,4,Severe,5,NKT Cells
+Sample3,4257,2052,0,4,Severe,5,NK cells
+Sample3,13178,4190,0,4,Severe,0,CD8+ T Cells
+Sample3,5315,2632,0,4,Severe,16,NKT Cells
+Sample3,4439,2165,0,4,Severe,0,GDT cells
+Sample3,17734,4435,0,4,Severe,7,CD16
+Sample3,7183,2911,0,4,Severe,0,CD8+ T Cells
+Sample3,10432,3725,0,4,Severe,7,CD14
+Sample3,3025,1206,0,4,Severe,7,CD16
+Sample3,8960,3080,0,4,Severe,8,CD14
+Sample3,12010,3667,0,4,Severe,7,intermediate monocytes
+Sample3,16992,4420,0,4,Severe,7,CD14
+Sample3,7388,3098,0,4,Severe,16,NK cells
+Sample3,4740,1945,0,4,Severe,7,CD16
+Sample3,9996,3508,0,4,Severe,7,CD16
+Sample3,2812,1522,0,4,Severe,0,GDT cells
+Sample3,10962,3948,0,4,Severe,5,NKT Cells
+Sample3,19444,4597,0,4,Severe,7,intermediate monocytes
+Sample3,6759,2965,0,4,Severe,5,NK cells
+Sample3,6557,2699,0,4,Severe,7,intermediate monocytes
+Sample3,14314,4027,0,4,Severe,7,CD16
+Sample3,6245,2681,0,4,Severe,7,intermediate monocytes
+Sample3,15563,4323,0,4,Severe,7,CD16
+Sample3,14642,4249,0,4,Severe,7,CD16
+Sample3,12957,3985,0,4,Severe,19,DC
+Sample3,11058,3399,0,4,Severe,8,CD14
+Sample3,2920,1635,0,4,Severe,5,NK cells
+Sample3,7551,3007,0,4,Severe,7,CD16
+Sample3,8652,3408,0,4,Severe,7,CD14
+Sample3,3701,1908,0,4,Severe,5,NK cells
+Sample3,3275,1791,0,4,Severe,0,GDT cells
+Sample3,9541,3323,0,4,Severe,7,CD16
+Sample3,20138,4677,0,4,Severe,7,CD14
+Sample3,7766,3163,0,4,Severe,0,GDT cells
+Sample3,12188,3972,0,4,Severe,7,intermediate monocytes
+Sample3,6827,2806,0,4,Severe,7,CD14
+Sample3,14574,3673,0,4,Severe,7,CD16
+Sample3,15861,4254,0,4,Severe,7,CD14
+Sample3,10795,3785,0,4,Severe,7,CD16
+Sample3,18388,4303,0,4,Severe,7,CD16
+Sample3,3905,2017,0,4,Severe,12,CD4+ T Cells
+Sample3,16297,3461,0,4,Severe,7,CD16
+Sample3,14697,4201,0,4,Severe,7,CD16
+Sample3,9691,3492,0,4,Severe,7,CD16
+Sample3,8315,3274,0,4,Severe,7,intermediate monocytes
+Sample3,3650,2034,0,4,Severe,5,NKT Cells
+Sample3,3498,1788,0,4,Severe,0,GDT cells
+Sample3,23618,4617,0,4,Severe,7,CD16
+Sample3,6208,2672,0,4,Severe,0,GDT cells
+Sample3,15505,3790,0,4,Severe,7,intermediate monocytes
+Sample3,6025,2475,0,4,Severe,0,GDT cells
+Sample3,11892,4011,0,4,Severe,7,CD16
+Sample3,7709,2887,0,4,Severe,8,CD14
+Sample3,3241,1319,0,4,Severe,7,CD16
+Sample3,11724,4023,0,4,Severe,7,CD16
+Sample3,6575,2659,0,4,Severe,4,CD4+ T Cells
+Sample3,6117,2580,0,4,Severe,5,NK cells
+Sample3,3068,1739,0,4,Severe,0,GDT cells
+Sample3,6138,2581,0,4,Severe,7,CD16
+Sample3,10003,3304,0,4,Severe,7,intermediate monocytes
+Sample3,13118,3983,0,4,Severe,7,CD16
+Sample3,15438,3959,0,4,Severe,7,CD16
+Sample3,5515,2481,0,4,Severe,5,NKT Cells
+Sample3,17361,4489,0,4,Severe,7,CD14
+Sample3,9034,3407,0,4,Severe,5,NKT Cells
+Sample3,12040,3830,0,4,Severe,7,CD14
+Sample3,11913,3742,0,4,Severe,7,CD14
+Sample3,8565,2879,0,4,Severe,7,CD14
+Sample3,9571,3359,0,4,Severe,8,CD14
+Sample3,19141,4688,0,4,Severe,7,intermediate monocytes
+Sample3,20706,4752,0,4,Severe,7,CD14
+Sample3,17066,4469,0,4,Severe,7,intermediate monocytes
+Sample3,4353,2089,0,4,Severe,5,NKT Cells
+Sample3,14755,4238,0,4,Severe,7,intermediate monocytes
+Sample3,2757,1458,0,4,Severe,0,GDT cells
+Sample3,3761,1923,0,4,Severe,0,GDT cells
+Sample3,5094,2379,0,4,Severe,0,CD8+ T Cells
+Sample3,14899,3856,0,4,Severe,7,CD16
+Sample3,10216,3608,0,4,Severe,7,CD16
+Sample3,12975,4173,0,4,Severe,7,CD16
+Sample3,10802,3526,0,4,Severe,7,CD16
+Sample3,3653,1801,0,4,Severe,0,GDT cells
+Sample3,825,539,0,4,Severe,10,NK cells
+Sample3,11184,3803,0,4,Severe,7,CD16
+Sample3,9939,3514,0,4,Severe,5,NKT Cells
+Sample3,4306,2151,0,4,Severe,5,NKT Cells
+Sample3,4561,2219,0,4,Severe,16,NK cells
+Sample3,22476,4160,0,4,Severe,19,DC
+Sample3,12809,3925,0,4,Severe,7,CD14
+Sample4,1859,1164,0,2,Minimal,3,Memory B Cell
+Sample4,4479,1986,0,2,Minimal,0,GDT cells
+Sample4,917,732,0,2,Minimal,0,GDT cells
+Sample4,11885,3552,0,2,Minimal,1,Mature B cells
+Sample4,4202,2006,0,2,Minimal,7,CD16
+Sample4,4593,2293,0,2,Minimal,15,CD4+ T Cells
+Sample4,2318,1411,0,2,Minimal,1,Memory B Cell
+Sample4,534,467,0,2,Minimal,0,GDT cells
+Sample4,557,460,0,2,Minimal,0,GDT cells
+Sample4,2522,1377,0,2,Minimal,1,Memory B Cell
+Sample4,1060,789,0,2,Minimal,12,CD4+ T Cells
+Sample4,7198,2536,0,2,Minimal,12,CD4+ T Cells
+Sample4,2644,1513,0,2,Minimal,8,CD16
+Sample4,7044,2767,0,2,Minimal,5,NKT Cells
+Sample4,1415,972,0,2,Minimal,0,GDT cells
+Sample4,16525,4303,0,2,Minimal,1,Mature B cells
+Sample4,16982,4253,0,2,Minimal,7,intermediate monocytes
+Sample4,1292,914,0,2,Minimal,0,GDT cells
+Sample4,23996,5194,0,2,Minimal,7,intermediate monocytes
+Sample4,1791,1106,0,2,Minimal,5,GDT cells
+Sample4,5004,2051,0,2,Minimal,0,GDT cells
+Sample4,3710,1915,0,2,Minimal,1,Memory B Cell
+Sample4,13906,3689,0,2,Minimal,6,Mature B cells
+Sample4,6535,2145,0,2,Minimal,6,Mature B cells
+Sample4,20343,4740,0,2,Minimal,7,intermediate monocytes
+Sample4,11631,3724,0,2,Minimal,7,intermediate monocytes
+Sample4,661,549,0,2,Minimal,0,GDT cells
+Sample4,1014,726,0,2,Minimal,5,GDT cells
+Sample4,2019,1275,0,2,Minimal,8,CD14
+Sample4,15366,4185,0,2,Minimal,7,CD14
+Sample4,8105,3036,0,2,Minimal,7,intermediate monocytes
+Sample4,3727,1885,0,2,Minimal,7,CD16
+Sample4,5297,2348,0,2,Minimal,8,intermediate monocytes
+Sample4,13528,3819,0,2,Minimal,1,Mature B cells
+Sample4,15939,4305,0,2,Minimal,7,intermediate monocytes
+Sample4,3705,2002,0,2,Minimal,8,CD14
+Sample4,11084,3669,0,2,Minimal,7,intermediate monocytes
+Sample4,7945,2890,0,2,Minimal,7,CD16
+Sample4,1718,1149,0,2,Minimal,0,GDT cells
+Sample4,2711,1589,0,2,Minimal,8,CD14
+Sample4,2130,1268,0,2,Minimal,0,GDT cells
+Sample4,4002,2044,0,2,Minimal,7,CD16
+Sample4,1876,1212,0,2,Minimal,8,CD14
+Sample4,722,595,0,2,Minimal,5,GDT cells
+Sample4,29028,5488,0,2,Minimal,7,intermediate monocytes
+Sample4,6363,2594,0,2,Minimal,15,CD4+ T Cells
+Sample4,1581,1118,0,2,Minimal,0,GDT cells
+Sample4,3577,1465,0,2,Minimal,7,intermediate monocytes
+Sample4,9369,3060,0,2,Minimal,1,Mature B cells
+Sample4,1730,1218,0,2,Minimal,8,CD14
+Sample4,5722,2265,0,2,Minimal,0,NK cells
+Sample4,8282,2939,0,2,Minimal,7,CD16
+Sample4,28851,5635,0,2,Minimal,7,CD16
+Sample4,12026,3406,0,2,Minimal,1,Mature B cells
+Sample4,10817,3315,0,2,Minimal,7,CD14
+Sample4,1334,967,0,2,Minimal,5,NK cells
+Sample4,4204,2098,0,2,Minimal,7,CD16
+Sample4,14234,4134,0,2,Minimal,7,intermediate monocytes
+Sample4,1728,1098,0,2,Minimal,8,intermediate monocytes
+Sample4,2438,1420,0,2,Minimal,0,GDT cells
+Sample4,1903,1222,0,2,Minimal,8,CD14
+Sample4,3459,1794,0,2,Minimal,0,GDT cells
+Sample4,17007,4329,0,2,Minimal,7,intermediate monocytes
+Sample4,8208,2858,0,2,Minimal,7,CD14
+Sample4,8686,3324,0,2,Minimal,7,intermediate monocytes
+Sample4,5704,2477,0,2,Minimal,19,DC
+Sample4,9725,3051,0,2,Minimal,0,GDT cells
+Sample4,10374,3378,0,2,Minimal,8,CD14
+Sample4,5112,2096,0,2,Minimal,0,GDT cells
+Sample4,3023,1728,0,2,Minimal,7,intermediate monocytes
+Sample4,583,478,0,2,Minimal,0,GDT cells
+Sample4,639,547,0,2,Minimal,0,GDT cells
+Sample4,8132,2925,0,2,Minimal,1,Mature B cells
+Sample4,20597,4828,0,2,Minimal,7,intermediate monocytes
+Sample4,15078,4199,0,2,Minimal,7,intermediate monocytes
+Sample4,17456,4362,0,2,Minimal,7,intermediate monocytes
+Sample4,7354,2529,0,2,Minimal,1,Memory B Cell
+Sample4,13037,3597,0,2,Minimal,1,Mature B cells
+Sample4,1977,1242,0,2,Minimal,0,GDT cells
+Sample4,6507,2833,0,2,Minimal,7,CD16
+Sample4,10894,3276,0,2,Minimal,1,Mature B cells
+Sample4,859,640,0,2,Minimal,8,CD14
+Sample4,9894,3221,0,2,Minimal,15,CD4+ T Cells
+Sample4,19105,4751,0,2,Minimal,7,CD14
+Sample4,7137,2882,0,2,Minimal,7,CD16
+Sample4,16006,4387,0,2,Minimal,7,CD14
+Sample4,1450,1056,0,2,Minimal,8,CD16
+Sample4,2588,1523,0,2,Minimal,8,CD16
+Sample4,11136,3413,0,2,Minimal,6,Mature B cells
+Sample4,2502,1449,0,2,Minimal,8,CD14
+Sample4,2711,1528,0,2,Minimal,0,GDT cells
+Sample4,8304,2969,0,2,Minimal,15,CD4+ T Cells
+Sample4,18746,4597,0,2,Minimal,7,intermediate monocytes
+Sample4,1344,894,0,2,Minimal,0,GDT cells
+Sample4,8023,3026,0,2,Minimal,1,Mature B cells
+Sample4,1283,881,0,2,Minimal,4,GDT cells
+Sample4,2322,1427,0,2,Minimal,8,CD14
+Sample4,19553,4762,0,2,Minimal,7,intermediate monocytes
+Sample4,2293,1434,0,2,Minimal,7,CD16
+Sample4,9554,3398,0,2,Minimal,7,CD14
+Sample4,15789,4289,0,2,Minimal,7,CD14
+Sample4,4461,2126,0,2,Minimal,1,Memory B Cell
+Sample4,633,508,0,2,Minimal,0,CD4+ T Cells
+Sample4,1767,1265,0,2,Minimal,0,GDT cells
+Sample4,1627,1075,0,2,Minimal,8,CD14
+Sample4,12401,3882,0,2,Minimal,19,DC
+Sample4,15929,4487,0,2,Minimal,7,CD14
+Sample4,2698,1529,0,2,Minimal,0,GDT cells
+Sample4,9941,3703,0,2,Minimal,7,intermediate monocytes
+Sample4,10977,3491,0,2,Minimal,7,intermediate monocytes
+Sample4,1991,1184,0,2,Minimal,0,GDT cells
+Sample4,8144,3117,0,2,Minimal,7,CD14
+Sample4,3666,1853,0,2,Minimal,7,CD16
+Sample4,7318,2786,0,2,Minimal,5,GDT cells
+Sample4,2261,1472,0,2,Minimal,8,CD14
+Sample4,1258,895,0,2,Minimal,5,GDT cells
+Sample4,1211,847,0,2,Minimal,8,CD14
+Sample4,3697,1885,0,2,Minimal,7,CD16
+Sample4,583,487,0,2,Minimal,0,GDT cells
+Sample4,31133,5894,0,2,Minimal,7,intermediate monocytes
+Sample4,11314,3341,0,2,Minimal,3,Mature B cells
+Sample4,1326,803,0,2,Minimal,0,GDT cells
+Sample4,11263,3119,0,2,Minimal,6,Mature B cells
+Sample4,13809,3863,0,2,Minimal,1,Mature B cells
+Sample4,12895,3484,0,2,Minimal,1,Mature B cells
+Sample4,17321,4483,0,2,Minimal,7,intermediate monocytes
+Sample4,14150,4040,0,2,Minimal,1,Mature B cells
+Sample4,10168,3427,0,2,Minimal,1,Mature B cells
+Sample4,16802,4155,0,2,Minimal,7,intermediate monocytes
+Sample4,3286,1753,0,2,Minimal,16,NK cells
+Sample4,851,613,0,2,Minimal,0,GDT cells
+Sample4,2891,1639,0,2,Minimal,8,CD14
+Sample4,1093,799,0,2,Minimal,0,GDT cells
+Sample4,5157,2167,0,2,Minimal,0,GDT cells
+Sample4,4868,2054,0,2,Minimal,0,GDT cells
+Sample4,569,460,0,2,Minimal,0,GDT cells
+Sample4,12512,3691,0,2,Minimal,1,Mature B cells
+Sample4,14409,3890,0,2,Minimal,1,Mature B cells
+Sample4,4671,2037,0,2,Minimal,15,CD4+ T Cells
+Sample4,809,631,0,2,Minimal,0,GDT cells
+Sample4,13109,3777,0,2,Minimal,7,CD14
+Sample4,1957,1341,0,2,Minimal,8,CD16
+Sample4,1038,783,0,2,Minimal,0,GDT cells
+Sample4,2969,1737,0,2,Minimal,8,CD14
+Sample4,28997,5587,0,2,Minimal,7,intermediate monocytes
+Sample4,3927,1864,0,2,Minimal,5,NK cells
+Sample4,596,491,0,2,Minimal,5,GDT cells
+Sample4,7130,2768,0,2,Minimal,0,NKT Cells
+Sample4,21304,4904,0,2,Minimal,7,intermediate monocytes
+Sample4,16583,4151,0,2,Minimal,1,Mature B cells
+Sample4,12690,3650,0,2,Minimal,6,Mature B cells
+Sample4,669,542,0,2,Minimal,0,CD4+ T Cells
+Sample4,3099,1692,0,2,Minimal,0,GDT cells
+Sample4,683,564,0,2,Minimal,0,GDT cells
+Sample4,831,645,0,2,Minimal,0,CD4+ T Cells
+Sample4,3119,1677,0,2,Minimal,8,intermediate monocytes
+Sample4,8744,2618,0,2,Minimal,4,CD4+ T Cells
+Sample4,3258,1740,0,2,Minimal,16,NK cells
+Sample4,1942,1225,0,2,Minimal,0,GDT cells
+Sample4,501,421,0,2,Minimal,0,GDT cells
+Sample4,2114,1265,0,2,Minimal,15,CD4+ T Cells
+Sample4,19763,4697,0,2,Minimal,7,intermediate monocytes
+Sample4,5591,2320,0,2,Minimal,4,CD4+ T Cells
+Sample4,6058,2481,0,2,Minimal,7,CD16
+Sample4,14280,4317,0,2,Minimal,7,CD16
+Sample4,5291,2257,0,2,Minimal,0,GDT cells
+Sample4,639,531,0,2,Minimal,0,GDT cells
+Sample4,1118,818,0,2,Minimal,8,CD14
+Sample4,12386,4012,0,2,Minimal,7,intermediate monocytes
+Sample4,12644,4180,0,2,Minimal,7,intermediate monocytes
+Sample4,22562,4728,0,2,Minimal,7,intermediate monocytes
+Sample4,5741,2481,0,2,Minimal,8,CD14
+Sample4,1278,900,0,2,Minimal,0,GDT cells
+Sample4,1220,900,0,2,Minimal,8,CD14
+Sample4,4108,1944,0,2,Minimal,0,GDT cells
+Sample4,6476,2560,0,2,Minimal,0,GDT cells
+Sample4,728,572,0,2,Minimal,0,GDT cells
+Sample4,26095,5980,0,2,Minimal,7,CD14
+Sample4,2452,1446,0,2,Minimal,15,CD4+ T Cells
+Sample4,7213,1680,0,2,Minimal,6,Mature B cells
+Sample4,21155,4936,0,2,Minimal,7,intermediate monocytes
+Sample4,13910,3959,0,2,Minimal,1,Mature B cells
+Sample4,1438,938,0,2,Minimal,8,CD14
+Sample4,739,576,0,2,Minimal,5,GDT cells
+Sample4,939,703,0,2,Minimal,0,GDT cells
+Sample4,15286,4350,0,2,Minimal,7,intermediate monocytes
+Sample4,5379,2353,0,2,Minimal,7,CD16
+Sample4,850,618,0,2,Minimal,0,GDT cells
+Sample4,11855,3465,0,2,Minimal,5,NKT Cells
+Sample4,3164,1599,0,2,Minimal,7,CD16
+Sample4,675,546,0,2,Minimal,0,GDT cells
+Sample4,6164,2550,0,2,Minimal,12,CD4+ T Cells
+Sample4,11424,3432,0,2,Minimal,1,Mature B cells
+Sample4,1668,1118,0,2,Minimal,1,Memory B Cell
+Sample4,10706,3536,0,2,Minimal,7,CD14
+Sample4,3234,1670,0,2,Minimal,0,GDT cells
+Sample4,32117,3685,0,2,Minimal,18,Plasma Cells
+Sample4,500,414,0,2,Minimal,0,GDT cells
+Sample4,6096,2715,0,2,Minimal,7,CD14
+Sample4,623,507,0,2,Minimal,0,GDT cells
+Sample4,27069,5638,0,2,Minimal,7,intermediate monocytes
+Sample4,5367,2198,0,2,Minimal,15,CD4+ T Cells
+Sample4,3919,1916,0,2,Minimal,0,GDT cells
+Sample4,1589,1095,0,2,Minimal,0,GDT cells
+Sample4,23726,5438,0,2,Minimal,7,CD14
+Sample4,6896,2968,0,2,Minimal,5,NKT Cells
+Sample4,656,559,0,2,Minimal,8,CD14
+Sample4,11275,3279,0,2,Minimal,15,CD4+ T Cells
+Sample4,6807,2664,0,2,Minimal,8,CD14
+Sample4,2460,1417,0,2,Minimal,8,CD14
+Sample4,11193,3627,0,2,Minimal,7,CD14
+Sample4,702,543,0,2,Minimal,0,GDT cells
+Sample4,515,438,0,2,Minimal,5,GDT cells
+Sample4,891,693,0,2,Minimal,0,GDT cells
+Sample4,782,613,0,2,Minimal,8,CD14
+Sample4,12333,3804,0,2,Minimal,15,CD4+ T Cells
+Sample4,5521,2319,0,2,Minimal,8,CD14
+Sample4,11826,3865,0,2,Minimal,1,Memory B Cell
+Sample4,3345,1666,0,2,Minimal,5,NK cells
+Sample4,12031,2987,0,2,Minimal,6,Mature B cells
+Sample4,18419,4492,0,2,Minimal,7,intermediate monocytes
+Sample4,12336,3865,0,2,Minimal,1,Mature B cells
+Sample4,520,473,0,2,Minimal,8,CD14
+Sample4,4081,2042,0,2,Minimal,7,CD16
+Sample4,2210,1309,0,2,Minimal,8,CD14
+Sample4,2913,1513,0,2,Minimal,0,GDT cells
+Sample4,5108,2316,0,2,Minimal,8,CD14
+Sample4,6408,2556,0,2,Minimal,8,CD14
+Sample4,7684,2801,0,2,Minimal,1,Memory B Cell
+Sample4,2778,1601,0,2,Minimal,4,CD4+ T Cells
+Sample4,13445,3892,0,2,Minimal,7,intermediate monocytes
+Sample4,18851,4733,0,2,Minimal,7,CD16
+Sample4,1222,873,0,2,Minimal,0,GDT cells
+Sample4,5203,2174,0,2,Minimal,1,Memory B Cell
+Sample4,9638,3277,0,2,Minimal,1,Memory B Cell
+Sample4,6664,2300,0,2,Minimal,6,Mature B cells
+Sample4,16091,4552,0,2,Minimal,7,intermediate monocytes
+Sample4,13177,3756,0,2,Minimal,7,intermediate monocytes
+Sample4,1479,1032,0,2,Minimal,0,GDT cells
+Sample4,2189,1369,0,2,Minimal,8,CD14
+Sample4,678,558,0,2,Minimal,8,CD14
+Sample4,4108,1592,0,2,Minimal,4,CD4+ T Cells
+Sample4,24736,5418,0,2,Minimal,7,CD14
+Sample4,13335,3952,0,2,Minimal,7,intermediate monocytes
+Sample4,6083,2415,0,2,Minimal,7,intermediate monocytes
+Sample4,1231,866,0,2,Minimal,0,GDT cells
+Sample4,3283,1842,0,2,Minimal,8,CD14
+Sample4,1033,763,0,2,Minimal,8,CD14
+Sample4,15431,4599,0,2,Minimal,7,intermediate monocytes
+Sample4,8872,3392,0,2,Minimal,0,CD4+ T Cells
+Sample4,2169,1316,0,2,Minimal,7,CD16
+Sample4,6850,2910,0,2,Minimal,7,CD16
+Sample4,15387,4293,0,2,Minimal,15,CD4+ T Cells
+Sample4,557,450,0,2,Minimal,5,NK cells
+Sample4,1067,788,0,2,Minimal,0,GDT cells
+Sample4,4062,2001,0,2,Minimal,15,CD4+ T Cells
+Sample4,957,722,0,2,Minimal,4,CD4+ T Cells
+Sample4,24019,5298,0,2,Minimal,7,intermediate monocytes
+Sample4,13397,3781,0,2,Minimal,1,Mature B cells
+Sample4,873,654,0,2,Minimal,5,GDT cells
+Sample4,10463,3590,0,2,Minimal,19,DC
+Sample4,3837,2103,0,2,Minimal,8,CD14
+Sample4,968,703,0,2,Minimal,0,GDT cells
+Sample4,17910,3822,0,2,Minimal,6,Mature B cells
+Sample4,1472,993,0,2,Minimal,0,GDT cells
+Sample4,18529,4700,0,2,Minimal,7,CD14
+Sample4,3441,1847,0,2,Minimal,8,intermediate monocytes
+Sample4,2785,1553,0,2,Minimal,15,CD4+ T Cells
+Sample4,1216,859,0,2,Minimal,0,GDT cells
+Sample4,7856,2921,0,2,Minimal,7,CD14
+Sample4,26147,5518,0,2,Minimal,7,intermediate monocytes
+Sample4,12428,3978,0,2,Minimal,7,intermediate monocytes
+Sample4,11220,3108,0,2,Minimal,6,Mature B cells
+Sample4,10405,3400,0,2,Minimal,7,intermediate monocytes
+Sample4,826,599,0,2,Minimal,5,GDT cells
+Sample4,2744,1567,0,2,Minimal,12,CD4+ T Cells
+Sample4,499,420,0,2,Minimal,0,CD4+ T Cells
+Sample5,7342,2724,0,4,Severe,9,Immature B cells
+Sample5,14531,4406,0,4,Severe,5,NKT Cells
+Sample5,18250,4498,0,4,Severe,3,Immature B cells
+Sample5,19544,4755,0,4,Severe,9,Immature B cells
+Sample5,44738,6921,0,4,Severe,11,CD8+ T Cells
+Sample5,24941,5736,0,4,Severe,13,NKT Cells
+Sample5,29996,5756,0,4,Severe,9,Immature B cells
+Sample5,10257,3362,0,4,Severe,7,CD14
+Sample5,9635,3234,0,4,Severe,9,Immature B cells
+Sample5,14214,4412,0,4,Severe,0,CD8+ T Cells
+Sample5,12874,4359,0,4,Severe,5,NK cells
+Sample5,2511,1502,0,4,Severe,5,NK cells
+Sample5,13430,4088,0,4,Severe,7,CD14
+Sample5,17635,3716,0,4,Severe,9,Immature B cells
+Sample5,27808,5371,0,4,Severe,9,Immature B cells
+Sample5,20683,4546,0,4,Severe,9,Immature B cells
+Sample5,12847,4097,0,4,Severe,0,CD8+ T Cells
+Sample5,36946,6400,0,4,Severe,9,Immature B cells
+Sample5,16009,4660,0,4,Severe,16,NKT Cells
+Sample5,12940,4124,0,4,Severe,5,NK cells
+Sample5,5356,2191,0,4,Severe,7,CD14
+Sample5,29477,5609,0,4,Severe,9,Immature B cells
+Sample5,5832,2765,0,4,Severe,5,NK cells
+Sample5,5955,2423,0,4,Severe,9,Immature B cells
+Sample5,11487,3985,0,4,Severe,16,NKT Cells
+Sample5,30116,6161,0,4,Severe,10,CD8+ T Cells
+Sample5,38407,6498,0,4,Severe,9,Immature B cells
+Sample5,20794,4897,0,4,Severe,9,Immature B cells
+Sample5,11059,3636,0,4,Severe,12,CD4+ T Cells
+Sample5,12526,3716,0,4,Severe,12,CD4+ T Cells
+Sample5,10413,3744,0,4,Severe,5,NK cells
+Sample5,12404,3655,0,4,Severe,9,Immature B cells
+Sample5,19921,4415,0,4,Severe,9,Immature B cells
+Sample5,30282,6011,0,4,Severe,0,CD8+ T Cells
+Sample5,17662,4982,0,4,Severe,4,CD4+ T Cells
+Sample5,18991,4785,0,4,Severe,7,CD16
+Sample5,10968,3493,0,4,Severe,7,CD14
+Sample5,3540,1738,0,4,Severe,7,CD14
+Sample5,17873,4679,0,4,Severe,7,CD14
+Sample5,6916,2807,0,4,Severe,7,CD14
+Sample5,5248,2184,0,4,Severe,7,CD16
+Sample5,30459,5906,0,4,Severe,9,Immature B cells
+Sample5,15593,4371,0,4,Severe,4,CD4+ T Cells
+Sample5,19300,5324,0,4,Severe,5,NKT Cells
+Sample5,13883,3988,0,4,Severe,7,CD16
+Sample5,13711,3170,0,4,Severe,9,Immature B cells
+Sample5,16450,4734,0,4,Severe,5,NK cells
+Sample5,18065,4883,0,4,Severe,4,CD8+ T Cells
+Sample5,10802,3413,0,4,Severe,9,Immature B cells
+Sample5,24588,5224,0,4,Severe,9,Immature B cells
+Sample5,23486,5479,0,4,Severe,0,CD8+ T Cells
+Sample5,19084,4941,0,4,Severe,9,Immature B cells
+Sample5,13285,4116,0,4,Severe,4,CD4+ T Cells
+Sample5,11719,3788,0,4,Severe,4,CD4+ T Cells
+Sample5,32687,6547,0,4,Severe,11,NKT Cells
+Sample5,7255,2749,0,4,Severe,5,NK cells
+Sample5,13274,4271,0,4,Severe,5,NK cells
+Sample5,22303,5709,0,4,Severe,7,CD14
+Sample5,14247,3434,0,4,Severe,9,Immature B cells
+Sample5,17540,4636,0,4,Severe,0,CD8+ T Cells
+Sample5,13661,4510,0,4,Severe,5,NK cells
+Sample5,23696,4811,0,4,Severe,9,Immature B cells
+Sample5,10545,3552,0,4,Severe,7,CD14
+Sample5,27433,5513,0,4,Severe,9,Immature B cells
+Sample5,15341,4379,0,4,Severe,4,CD4+ T Cells
+Sample5,10770,3302,0,4,Severe,0,GDT cells
+Sample5,15113,4765,0,4,Severe,13,NKT Cells
+Sample5,12798,3658,0,4,Severe,9,Immature B cells
+Sample5,15418,4428,0,4,Severe,4,CD4+ T Cells
+Sample5,9994,3034,0,4,Severe,9,Immature B cells
+Sample5,10494,3268,0,4,Severe,9,Immature B cells
+Sample5,6355,2581,0,4,Severe,7,CD16
+Sample5,26455,5365,0,4,Severe,9,Immature B cells
+Sample5,8449,3128,0,4,Severe,7,CD16
+Sample5,12668,4044,0,4,Severe,4,CD4+ T Cells
+Sample5,17432,4599,0,4,Severe,9,Immature B cells
+Sample5,5617,2173,0,4,Severe,9,Immature B cells
+Sample5,9428,3547,0,4,Severe,9,Immature B cells
+Sample5,9056,3656,0,4,Severe,5,NK cells
+Sample5,21208,5162,0,4,Severe,5,NKT Cells
+Sample5,10429,3730,0,4,Severe,9,Immature B cells
+Sample5,11715,4001,0,4,Severe,5,NKT Cells
+Sample5,7334,2749,0,4,Severe,9,Immature B cells
+Sample5,33931,6233,0,4,Severe,9,Immature B cells
+Sample5,24517,4623,0,4,Severe,9,Immature B cells
+Sample5,16316,4500,0,4,Severe,9,Immature B cells
+Sample5,4748,2097,0,4,Severe,9,Immature B cells
+Sample5,8178,2938,0,4,Severe,7,CD14
+Sample5,11361,3946,0,4,Severe,5,NK cells
+Sample5,25259,5273,0,4,Severe,9,Immature B cells
+Sample5,27035,5400,0,4,Severe,9,Immature B cells
+Sample5,10307,3617,0,4,Severe,7,CD16
+Sample5,16168,4828,0,4,Severe,10,CD8+ T Cells
+Sample5,19471,4982,0,4,Severe,12,CD4+ T Cells
+Sample5,15789,4657,0,4,Severe,5,NK cells
+Sample5,7330,3210,0,4,Severe,5,NK cells
+Sample5,12109,3927,0,4,Severe,4,CD4+ T Cells
+Sample5,8376,3011,0,4,Severe,7,CD14
+Sample5,6174,2731,0,4,Severe,12,CD4+ T Cells
+Sample5,15743,4429,0,4,Severe,0,CD8+ T Cells
+Sample5,23088,5284,0,4,Severe,4,CD4+ T Cells
+Sample5,12256,3786,0,4,Severe,16,NK cells
+Sample5,20245,4455,0,4,Severe,9,Immature B cells
+Sample5,14431,4211,0,4,Severe,4,CD4+ T Cells
+Sample5,17596,4650,0,4,Severe,9,Immature B cells
+Sample5,4901,2240,0,4,Severe,7,CD16
+Sample5,12197,4169,0,4,Severe,5,NK cells
+Sample5,27183,5140,0,4,Severe,9,Immature B cells
+Sample5,9564,3625,0,4,Severe,0,CD8+ T Cells
+Sample5,14101,4410,0,4,Severe,0,CD8+ T Cells
+Sample5,15745,4395,0,4,Severe,9,Immature B cells
+Sample5,21493,4958,0,4,Severe,9,Immature B cells
+Sample5,11314,3482,0,4,Severe,7,CD14
+Sample5,3095,1847,0,4,Severe,5,NKT Cells
+Sample5,13585,4166,0,4,Severe,0,CD8+ T Cells
+Sample5,12721,4031,0,4,Severe,9,Immature B cells
+Sample5,6258,2541,0,4,Severe,7,CD14
+Sample5,21142,4918,0,4,Severe,9,Immature B cells
+Sample5,14786,4676,0,4,Severe,13,NKT Cells
+Sample5,14583,4199,0,4,Severe,4,CD4+ T Cells
+Sample5,23553,5709,0,4,Severe,4,CD8+ T Cells
+Sample5,19377,4354,0,4,Severe,9,Immature B cells
+Sample5,10806,3271,0,4,Severe,9,Immature B cells
+Sample5,13476,3765,0,4,Severe,9,Immature B cells
+Sample5,23600,5495,0,4,Severe,9,Immature B cells
+Sample5,33978,6383,0,4,Severe,4,CD4+ T Cells
+Sample5,31772,6400,0,4,Severe,11,CD8+ T Cells
+Sample5,8718,3156,0,4,Severe,0,CD8+ T Cells
+Sample5,7195,3062,0,4,Severe,5,NKT Cells
+Sample5,13081,4212,0,4,Severe,0,GDT cells
+Sample5,41283,7047,0,4,Severe,11,CD8+ T Cells
+Sample5,23061,5432,0,4,Severe,0,CD8+ T Cells
+Sample5,13578,3529,0,4,Severe,9,Immature B cells
+Sample5,11660,4060,0,4,Severe,10,CD8+ T Cells
+Sample5,16626,4298,0,4,Severe,9,Immature B cells
+Sample5,8347,3056,0,4,Severe,12,CD4+ T Cells
+Sample5,25600,5965,0,4,Severe,11,CD8+ T Cells
+Sample5,19743,4676,0,4,Severe,9,Immature B cells
+Sample5,8367,2996,0,4,Severe,0,CD8+ T Cells
+Sample5,27696,5800,0,4,Severe,9,Immature B cells
+Sample5,13808,4193,0,4,Severe,10,CD8+ T Cells
+Sample5,7951,3042,0,4,Severe,12,CD4+ T Cells
+Sample5,64787,7880,0,4,Severe,11,CD8+ T Cells
+Sample5,11627,3689,0,4,Severe,4,CD4+ T Cells
+Sample5,26161,5459,0,4,Severe,9,Immature B cells
+Sample5,8944,3589,0,4,Severe,5,NKT Cells
+Sample5,11042,3338,0,4,Severe,9,Immature B cells
+Sample5,26511,5722,0,4,Severe,9,Immature B cells
+Sample5,7039,2862,0,4,Severe,7,CD16
+Sample5,16392,4703,0,4,Severe,0,CD8+ T Cells
+Sample5,8538,3393,0,4,Severe,5,NK cells
+Sample5,15025,4200,0,4,Severe,7,intermediate monocytes
+Sample5,18008,4883,0,4,Severe,7,CD14
+Sample5,22701,5692,0,4,Severe,13,NK cells
+Sample5,16449,4227,0,4,Severe,9,Immature B cells
+Sample5,11177,3952,0,4,Severe,5,NK cells
+Sample5,32550,6193,0,4,Severe,9,Immature B cells
+Sample5,13325,4178,0,4,Severe,0,CD8+ T Cells
+Sample5,15353,4643,0,4,Severe,0,CD8+ T Cells
+Sample5,11454,3566,0,4,Severe,9,Immature B cells
+Sample5,7559,2746,0,4,Severe,7,CD14
+Sample5,11182,3642,0,4,Severe,0,CD8+ T Cells
+Sample5,19203,5010,0,4,Severe,7,CD16
+Sample5,27548,6227,0,4,Severe,11,NK cells
+Sample5,18441,4879,0,4,Severe,9,Immature B cells
+Sample5,8226,2908,0,4,Severe,12,CD4+ T Cells
+Sample5,12888,4156,0,4,Severe,5,NKT Cells
+Sample5,17625,4319,0,4,Severe,9,Immature B cells
+Sample5,12142,3957,0,4,Severe,0,CD8+ T Cells
+Sample5,8220,3409,0,4,Severe,13,NKT Cells
+Sample5,19079,5232,0,4,Severe,5,NK cells
+Sample5,16846,4487,0,4,Severe,9,Immature B cells
+Sample5,13290,4461,0,4,Severe,5,NK cells
+Sample5,7216,2813,0,4,Severe,4,CD4+ T Cells
+Sample5,33513,6572,0,4,Severe,11,CD8+ T Cells
+Sample5,10775,4054,0,4,Severe,5,NKT Cells
+Sample5,26916,6053,0,4,Severe,10,CD8+ T Cells
+Sample5,17899,4975,0,4,Severe,10,CD8+ T Cells
+Sample5,12513,4261,0,4,Severe,5,NK cells
+Sample5,13007,3994,0,4,Severe,7,CD14
+Sample5,16717,4815,0,4,Severe,9,Immature B cells
+Sample5,10037,3488,0,4,Severe,7,CD14
+Sample5,24316,5313,0,4,Severe,9,Immature B cells
+Sample5,20844,4837,0,4,Severe,9,Immature B cells
+Sample5,11373,4017,0,4,Severe,7,intermediate monocytes
+Sample5,10876,3516,0,4,Severe,7,CD14
+Sample5,20065,4891,0,4,Severe,7,CD14
+Sample5,13327,3980,0,4,Severe,4,CD4+ T Cells
+Sample5,12476,3838,0,4,Severe,7,CD16
+Sample5,16205,4558,0,4,Severe,7,CD14
+Sample5,8853,3031,0,4,Severe,9,Immature B cells
+Sample5,13023,3727,0,4,Severe,9,Immature B cells
+Sample5,27106,5809,0,4,Severe,0,CD8+ T Cells
+Sample5,6878,2893,0,4,Severe,4,CD4+ T Cells
+Sample5,20837,5187,0,4,Severe,0,CD8+ T Cells
+Sample5,7046,2987,0,4,Severe,5,NK cells
+Sample5,9905,3579,0,4,Severe,5,NK cells
+Sample5,6538,2712,0,4,Severe,7,CD16
+Sample5,27364,6142,0,4,Severe,11,CD8+ T Cells
+Sample5,20437,5214,0,4,Severe,5,NK cells
+Sample5,10242,2972,0,4,Severe,9,Immature B cells
+Sample5,5258,2349,0,4,Severe,7,CD14
+Sample5,13109,3991,0,4,Severe,4,CD4+ T Cells
+Sample5,18546,4002,0,4,Severe,9,Immature B cells
+Sample5,16050,4539,0,4,Severe,16,NKT Cells
+Sample5,28892,5967,0,4,Severe,9,Immature B cells
+Sample5,11488,3834,0,4,Severe,7,CD14
+Sample5,33027,6484,0,4,Severe,10,CD8+ T Cells
+Sample5,10551,3873,0,4,Severe,16,NKT Cells
+Sample5,10880,3563,0,4,Severe,4,CD4+ T Cells
+Sample5,13971,3950,0,4,Severe,7,intermediate monocytes
+Sample5,11746,3861,0,4,Severe,4,CD4+ T Cells
+Sample5,11435,3895,0,4,Severe,5,NK cells
+Sample5,12059,4205,0,4,Severe,5,NK cells
+Sample5,23899,4968,0,4,Severe,9,Immature B cells
+Sample5,7793,3200,0,4,Severe,5,NKT Cells
+Sample5,17762,4637,0,4,Severe,0,CD4+ T Cells
+Sample5,3370,1623,0,4,Severe,9,Immature B cells
+Sample5,16372,4652,0,4,Severe,0,CD8+ T Cells
+Sample5,14693,4553,0,4,Severe,13,NK cells
+Sample5,27792,5356,0,4,Severe,9,Immature B cells
+Sample5,10094,3512,0,4,Severe,0,CD8+ T Cells
+Sample5,6645,2465,0,4,Severe,9,Immature B cells
+Sample5,9069,3374,0,4,Severe,5,NKT Cells
+Sample5,26911,6188,0,4,Severe,5,NK cells
+Sample5,19367,4893,0,4,Severe,3,Immature B cells
+Sample5,15614,3558,0,4,Severe,9,Immature B cells
+Sample5,7113,2816,0,4,Severe,7,CD16
+Sample5,9897,3178,0,4,Severe,9,Immature B cells
+Sample5,9573,3604,0,4,Severe,5,NK cells
+Sample5,30414,6367,0,4,Severe,11,CD8+ T Cells
+Sample5,11507,4138,0,4,Severe,5,NK cells
+Sample5,10991,3513,0,4,Severe,5,NK cells
+Sample5,26210,5136,0,4,Severe,9,Immature B cells
+Sample5,15626,4790,0,4,Severe,10,CD8+ T Cells
+Sample5,9507,3613,0,4,Severe,5,NK cells
+Sample5,11222,3236,0,4,Severe,9,Immature B cells
+Sample5,16535,4798,0,4,Severe,5,NK cells
+Sample5,13611,4054,0,4,Severe,4,CD4+ T Cells
+Sample5,26932,5404,0,4,Severe,9,Immature B cells
+Sample5,6594,2845,0,4,Severe,5,NK cells
+Sample5,12238,3553,0,4,Severe,4,CD4+ T Cells
+Sample5,9121,3324,0,4,Severe,7,CD16
+Sample5,16837,4719,0,4,Severe,5,NK cells
+Sample5,18053,4962,0,4,Severe,5,NK cells
+Sample5,21861,5076,0,4,Severe,7,intermediate monocytes
+Sample5,15612,4528,0,4,Severe,16,NK cells
+Sample5,22672,5615,0,4,Severe,7,CD16
+Sample5,18379,4945,0,4,Severe,0,CD8+ T Cells
+Sample5,12776,4098,0,4,Severe,12,CD4+ T Cells
+Sample5,9321,3670,0,4,Severe,5,NK cells
+Sample5,6157,2759,0,4,Severe,5,NKT Cells
+Sample5,7232,3021,0,4,Severe,5,NKT Cells
+Sample5,9153,3004,0,4,Severe,9,Immature B cells
+Sample5,11554,3443,0,4,Severe,12,CD4+ T Cells
+Sample5,21577,4841,0,4,Severe,9,Immature B cells
+Sample5,12926,3494,0,4,Severe,9,Immature B cells
+Sample5,9275,3114,0,4,Severe,9,Immature B cells
+Sample5,20678,4518,0,4,Severe,9,Immature B cells
+Sample5,11068,3572,0,4,Severe,12,CD4+ T Cells
+Sample5,15366,4628,0,4,Severe,10,CD8+ T Cells
+Sample5,12820,3755,0,4,Severe,9,Immature B cells
+Sample5,13863,4108,0,4,Severe,16,NKT Cells
+Sample5,5987,2641,0,4,Severe,7,CD16
+Sample5,27774,6046,0,4,Severe,13,NKT Cells
+Sample5,12508,3535,0,4,Severe,0,GDT cells
+Sample5,11841,3736,0,4,Severe,0,CD8+ T Cells
+Sample5,21667,4619,0,4,Severe,9,Immature B cells
+Sample5,16878,4512,0,4,Severe,9,Immature B cells
+Sample5,22229,5093,0,4,Severe,0,CD8+ T Cells
+Sample5,15742,4427,0,4,Severe,4,CD4+ T Cells
+Sample5,12816,3720,0,4,Severe,9,Immature B cells
+Sample6,2409,1320,-1,2,Minimal,0,GDT cells
+Sample6,25642,5973,-1,2,Minimal,11,NKT Cells
+Sample6,1459,1035,-1,2,Minimal,0,CD8+ T Cells
+Sample6,9634,3684,-1,2,Minimal,13,NK cells
+Sample6,16884,4426,-1,2,Minimal,7,intermediate monocytes
+Sample6,46790,6686,-1,2,Minimal,7,intermediate monocytes
+Sample6,17140,4338,-1,2,Minimal,7,CD14
+Sample6,12359,3796,-1,2,Minimal,7,intermediate monocytes
+Sample6,12461,3982,-1,2,Minimal,0,CD8+ T Cells
+Sample6,23148,6084,-1,2,Minimal,11,NKT Cells
+Sample6,1392,729,-1,2,Minimal,8,MDSC
+Sample6,1454,816,-1,2,Minimal,8,MDSC
+Sample6,12776,4195,-1,2,Minimal,13,NKT Cells
+Sample6,2139,925,-1,2,Minimal,8,MDSC
+Sample6,19267,4844,-1,2,Minimal,7,CD16
+Sample6,990,686,-1,2,Minimal,8,MDSC
+Sample6,894,618,-1,2,Minimal,8,MDSC
+Sample6,2593,1655,-1,2,Minimal,0,CD8+ T Cells
+Sample6,500,365,-1,2,Minimal,8,MDSC
+Sample6,539,409,-1,2,Minimal,8,MDSC
+Sample6,9308,3481,-1,2,Minimal,0,CD8+ T Cells
+Sample6,34565,6504,-1,2,Minimal,13,NKT Cells
+Sample6,761,533,-1,2,Minimal,8,MDSC
+Sample6,1172,620,-1,2,Minimal,8,MDSC
+Sample6,3348,1968,-1,2,Minimal,11,NK cells
+Sample6,16812,4333,-1,2,Minimal,7,CD14
+Sample6,14931,4634,-1,2,Minimal,13,NKT Cells
+Sample6,25105,5505,-1,2,Minimal,7,CD14
+Sample6,12904,4263,-1,2,Minimal,5,NK cells
+Sample6,567,426,-1,2,Minimal,8,MDSC
+Sample6,918,666,-1,2,Minimal,8,MDSC
+Sample6,8776,2977,-1,2,Minimal,0,GDT cells
+Sample6,20806,5401,-1,2,Minimal,13,NKT Cells
+Sample6,3111,1267,-1,2,Minimal,8,MDSC
+Sample6,23639,5938,-1,2,Minimal,13,NK cells
+Sample6,22531,4962,-1,2,Minimal,7,CD14
+Sample6,22564,4988,-1,2,Minimal,7,CD14
+Sample6,8237,3271,-1,2,Minimal,16,NKT Cells
+Sample6,561,405,-1,2,Minimal,8,MDSC
+Sample6,10052,3523,-1,2,Minimal,7,intermediate monocytes
+Sample6,575,416,-1,2,Minimal,8,MDSC
+Sample6,33345,6595,-1,2,Minimal,10,CD8+ T Cells
+Sample6,1215,926,-1,2,Minimal,0,CD8+ T Cells
+Sample6,17244,4568,-1,2,Minimal,7,CD14
+Sample6,759,597,-1,2,Minimal,8,MDSC
+Sample6,1113,767,-1,2,Minimal,8,MDSC
+Sample6,10592,3587,-1,2,Minimal,4,CD4+ T Cells
+Sample6,39268,6814,-1,2,Minimal,13,NKT Cells
+Sample6,5290,2243,-1,2,Minimal,0,GDT cells
+Sample6,22145,5270,-1,2,Minimal,0,CD8+ T Cells
+Sample6,25733,5875,-1,2,Minimal,7,CD14
+Sample6,2235,983,-1,2,Minimal,8,MDSC
+Sample6,5344,2587,-1,2,Minimal,11,NK cells
+Sample6,31581,6275,-1,2,Minimal,5,NKT Cells
+Sample6,23449,5701,-1,2,Minimal,4,CD8+ T Cells
+Sample6,15526,4371,-1,2,Minimal,0,CD8+ T Cells
+Sample6,24815,5301,-1,2,Minimal,7,intermediate monocytes
+Sample6,25955,5884,-1,2,Minimal,10,NKT Cells
+Sample6,2990,1730,-1,2,Minimal,0,GDT cells
+Sample6,10122,3672,-1,2,Minimal,7,intermediate monocytes
+Sample6,26842,6035,-1,2,Minimal,10,CD8+ T Cells
+Sample6,6312,2665,-1,2,Minimal,7,CD16
+Sample6,9110,3401,-1,2,Minimal,5,NKT Cells
+Sample6,14659,4636,-1,2,Minimal,13,NKT Cells
+Sample6,10145,3661,-1,2,Minimal,5,GDT cells
+Sample6,21046,5274,-1,2,Minimal,11,CD8+ T Cells
+Sample6,4309,1542,-1,2,Minimal,8,MDSC
+Sample6,984,648,-1,2,Minimal,8,MDSC
+Sample6,2272,1014,-1,2,Minimal,8,MDSC
+Sample6,35040,6660,-1,2,Minimal,11,CD8+ T Cells
+Sample6,944,663,-1,2,Minimal,8,MDSC
+Sample6,56903,7599,-1,2,Minimal,7,intermediate monocytes
+Sample6,920,617,-1,2,Minimal,8,MDSC
+Sample6,11561,4281,-1,2,Minimal,13,NKT Cells
+Sample6,41546,6580,-1,2,Minimal,7,intermediate monocytes
+Sample6,16454,5014,-1,2,Minimal,13,NKT Cells
+Sample6,17193,5128,-1,2,Minimal,11,CD8+ T Cells
+Sample6,18576,5096,-1,2,Minimal,5,NKT Cells
+Sample6,37159,6567,-1,2,Minimal,11,NK cells
+Sample6,22639,5561,-1,2,Minimal,11,NKT Cells
+Sample6,909,586,-1,2,Minimal,8,MDSC
+Sample6,27196,6032,-1,2,Minimal,11,NKT Cells
+Sample6,17931,5112,-1,2,Minimal,13,NKT Cells
+Sample6,18022,4502,-1,2,Minimal,7,CD14
+Sample6,8998,2804,-1,2,Minimal,0,GDT cells
+Sample6,21063,5326,-1,2,Minimal,11,CD8+ T Cells
+Sample6,29639,6430,-1,2,Minimal,13,NKT Cells
+Sample6,3667,1255,-1,2,Minimal,8,MDSC
+Sample6,22973,5356,-1,2,Minimal,7,intermediate monocytes
+Sample6,9722,3800,-1,2,Minimal,0,GDT cells
+Sample6,19889,5419,-1,2,Minimal,11,CD8+ T Cells
+Sample6,37239,6396,-1,2,Minimal,7,CD14
+Sample6,16056,4841,-1,2,Minimal,13,NKT Cells
+Sample6,12246,4201,-1,2,Minimal,11,NKT Cells
+Sample6,10096,3587,-1,2,Minimal,0,CD8+ T Cells
+Sample6,21098,5506,-1,2,Minimal,13,NKT Cells
+Sample6,22074,4794,-1,2,Minimal,7,CD14
+Sample6,8346,3181,-1,2,Minimal,5,NKT Cells
+Sample6,18081,5083,-1,2,Minimal,13,NKT Cells
+Sample6,17399,4976,-1,2,Minimal,13,NKT Cells
+Sample6,9052,3010,-1,2,Minimal,0,GDT cells
+Sample6,1222,786,-1,2,Minimal,8,CD16
+Sample6,664,468,-1,2,Minimal,8,MDSC
+Sample6,732,504,-1,2,Minimal,8,MDSC
+Sample6,6262,2559,-1,2,Minimal,12,CD4+ T Cells
+Sample6,18630,4330,-1,2,Minimal,7,CD14
+Sample6,9009,3567,-1,2,Minimal,5,NKT Cells
+Sample6,12399,3710,-1,2,Minimal,7,CD16
+Sample6,13431,4295,-1,2,Minimal,5,NKT Cells
+Sample6,2441,1109,-1,2,Minimal,8,MDSC
+Sample6,2965,1099,-1,2,Minimal,8,MDSC
+Sample6,30091,6337,-1,2,Minimal,11,NKT Cells
+Sample6,39105,7045,-1,2,Minimal,13,NKT Cells
+Sample6,499,393,-1,2,Minimal,8,MDSC
+Sample6,929,561,-1,2,Minimal,8,MDSC
+Sample6,1516,748,-1,2,Minimal,8,MDSC
+Sample6,9009,2909,-1,2,Minimal,0,GDT cells
+Sample6,1811,896,-1,2,Minimal,8,MDSC
+Sample6,2087,1112,-1,2,Minimal,8,MDSC
+Sample6,26988,6045,-1,2,Minimal,13,NKT Cells
+Sample6,27836,6009,-1,2,Minimal,11,CD8+ T Cells
+Sample6,20376,4943,-1,2,Minimal,5,NK cells
+Sample6,14504,4032,-1,2,Minimal,0,CD8+ T Cells
+Sample6,19946,4744,-1,2,Minimal,7,intermediate monocytes
+Sample6,12212,3919,-1,2,Minimal,0,CD8+ T Cells
+Sample6,1207,735,-1,2,Minimal,8,MDSC
+Sample6,581,444,-1,2,Minimal,8,CD16
+Sample6,799,555,-1,2,Minimal,8,MDSC
+Sample6,3897,2191,-1,2,Minimal,5,NK cells
+Sample6,2597,1067,-1,2,Minimal,8,MDSC
+Sample6,23386,5415,-1,2,Minimal,11,NKT Cells
+Sample6,1681,1098,-1,2,Minimal,0,GDT cells
+Sample6,28626,6047,-1,2,Minimal,11,NK cells
+Sample6,19756,5606,-1,2,Minimal,13,NK cells
+Sample6,1040,600,-1,2,Minimal,8,CD16
+Sample6,23784,5817,-1,2,Minimal,13,NKT Cells
+Sample6,18745,4678,-1,2,Minimal,7,CD14
+Sample6,14718,4621,-1,2,Minimal,13,NKT Cells
+Sample6,693,551,-1,2,Minimal,8,MDSC
+Sample6,17920,4759,-1,2,Minimal,7,CD14
+Sample6,12097,4046,-1,2,Minimal,5,NKT Cells
+Sample6,14982,4139,-1,2,Minimal,7,CD14
+Sample6,891,577,-1,2,Minimal,8,MDSC
+Sample6,1316,732,-1,2,Minimal,8,MDSC
+Sample6,14142,4079,-1,2,Minimal,7,CD4+ T Cells
+Sample6,4218,2032,-1,2,Minimal,8,intermediate monocytes
+Sample6,24232,5490,-1,2,Minimal,7,CD14
+Sample6,12478,3852,-1,2,Minimal,0,GDT cells
+Sample6,6528,2858,-1,2,Minimal,5,NKT Cells
+Sample6,18445,4678,-1,2,Minimal,7,CD14
+Sample6,16748,4920,-1,2,Minimal,5,NKT Cells
+Sample6,65419,8254,-1,2,Minimal,10,CD8+ T Cells
+Sample6,6086,2516,-1,2,Minimal,0,GDT cells
+Sample6,7038,2238,-1,2,Minimal,8,CD16
+Sample6,16650,4193,-1,2,Minimal,7,CD14
+Sample6,21555,5493,-1,2,Minimal,11,CD8+ T Cells
+Sample6,18484,4894,-1,2,Minimal,0,CD8+ T Cells
+Sample6,1164,675,-1,2,Minimal,8,MDSC
+Sample6,27176,5340,-1,2,Minimal,7,CD16
+Sample6,2708,1539,-1,2,Minimal,5,GDT cells
+Sample6,7828,3273,-1,2,Minimal,5,NKT Cells
+Sample6,20544,5527,-1,2,Minimal,11,NKT Cells
+Sample6,18632,5153,-1,2,Minimal,5,NK cells
+Sample6,11174,4053,-1,2,Minimal,13,NK cells
+Sample6,36452,7011,-1,2,Minimal,11,NK cells
+Sample6,21409,5706,-1,2,Minimal,11,CD8+ T Cells
+Sample6,930,603,-1,2,Minimal,8,MDSC
+Sample6,8679,3506,-1,2,Minimal,13,NK cells
+Sample6,1659,943,-1,2,Minimal,8,MDSC
+Sample6,2681,1139,-1,2,Minimal,8,intermediate monocytes
+Sample6,33050,6717,-1,2,Minimal,13,NKT Cells
+Sample6,17971,5251,-1,2,Minimal,13,NK cells
+Sample6,15902,4717,-1,2,Minimal,13,NKT Cells
+Sample6,1054,633,-1,2,Minimal,8,MDSC
+Sample6,19006,5377,-1,2,Minimal,10,CD8+ T Cells
+Sample6,12299,4460,-1,2,Minimal,10,NK cells
+Sample6,14477,4517,-1,2,Minimal,5,NKT Cells
+Sample6,1658,853,-1,2,Minimal,8,MDSC
+Sample6,23731,5761,-1,2,Minimal,11,NKT Cells
+Sample6,1723,1016,-1,2,Minimal,8,MDSC
+Sample6,629,493,-1,2,Minimal,8,MDSC
+Sample6,2146,1040,-1,2,Minimal,8,MDSC
+Sample6,3510,1181,-1,2,Minimal,8,MDSC
+Sample6,26260,5900,-1,2,Minimal,13,NKT Cells
+Sample6,5465,2341,-1,2,Minimal,0,GDT cells
+Sample6,8049,3315,-1,2,Minimal,5,NK cells
+Sample6,10081,3256,-1,2,Minimal,7,intermediate monocytes
+Sample6,25876,5809,-1,2,Minimal,19,DC
+Sample6,2189,1017,-1,2,Minimal,8,MDSC
+Sample6,9138,2939,-1,2,Minimal,0,GDT cells
+Sample6,14422,4059,-1,2,Minimal,7,intermediate monocytes
+Sample6,4614,2001,-1,2,Minimal,7,CD14
+Sample6,19848,4951,-1,2,Minimal,7,intermediate monocytes
+Sample6,11142,3933,-1,2,Minimal,13,NKT Cells
+Sample6,12656,4105,-1,2,Minimal,5,NKT Cells
+Sample6,30419,6617,-1,2,Minimal,10,CD8+ T Cells
+Sample6,13968,3985,-1,2,Minimal,7,intermediate monocytes
+Sample6,1009,671,-1,2,Minimal,8,MDSC
+Sample6,1788,835,-1,2,Minimal,8,MDSC
+Sample6,24390,5618,-1,2,Minimal,10,CD8+ T Cells
+Sample6,10481,3850,-1,2,Minimal,13,NKT Cells
+Sample6,1618,1048,-1,2,Minimal,8,CD14
+Sample6,919,604,-1,2,Minimal,8,MDSC
+Sample6,9102,3202,-1,2,Minimal,7,CD14
+Sample6,13735,4568,-1,2,Minimal,11,CD8+ T Cells
+Sample6,1744,780,-1,2,Minimal,8,MDSC
+Sample6,24293,5807,-1,2,Minimal,13,NKT Cells
+Sample6,48423,7303,-1,2,Minimal,7,CD14
+Sample6,17788,4477,-1,2,Minimal,7,intermediate monocytes
+Sample6,12336,3660,-1,2,Minimal,7,intermediate monocytes
+Sample6,17754,4308,-1,2,Minimal,7,CD14
+Sample6,7830,2879,-1,2,Minimal,12,CD4+ T Cells
+Sample6,704,516,-1,2,Minimal,8,MDSC
+Sample6,18444,5019,-1,2,Minimal,11,NK cells
+Sample6,663,435,-1,2,Minimal,8,MDSC
+Sample6,1439,885,-1,2,Minimal,8,MDSC
+Sample6,6870,2955,-1,2,Minimal,0,GDT cells
+Sample6,14977,4248,-1,2,Minimal,4,CD4+ T Cells
+Sample6,19763,5525,-1,2,Minimal,13,NK cells
+Sample6,8801,3053,-1,2,Minimal,12,CD4+ T Cells
+Sample6,13523,4572,-1,2,Minimal,13,NK cells
+Sample6,861,503,-1,2,Minimal,8,MDSC
+Sample6,640,478,-1,2,Minimal,8,MDSC
+Sample6,891,592,-1,2,Minimal,8,MDSC
+Sample6,633,425,-1,2,Minimal,8,MDSC
+Sample6,1341,852,-1,2,Minimal,8,MDSC
+Sample6,16232,4260,-1,2,Minimal,7,CD14
+Sample6,24857,5844,-1,2,Minimal,13,NK cells
+Sample6,12676,4355,-1,2,Minimal,5,NK cells
+Sample6,893,593,-1,2,Minimal,8,MDSC
+Sample6,17207,5001,-1,2,Minimal,13,NKT Cells
+Sample6,14438,4075,-1,2,Minimal,7,intermediate monocytes
+Sample6,16220,4831,-1,2,Minimal,13,NKT Cells
+Sample6,8957,3441,-1,2,Minimal,0,CD8+ T Cells
+Sample6,1149,717,-1,2,Minimal,8,MDSC
+Sample6,9718,3714,-1,2,Minimal,5,NKT Cells
+Sample6,31797,6099,-1,2,Minimal,7,intermediate monocytes
+Sample6,20582,4733,-1,2,Minimal,7,CD14
+Sample6,43912,6775,-1,2,Minimal,7,intermediate monocytes
+Sample6,865,545,-1,2,Minimal,8,MDSC
+Sample6,43402,7067,-1,2,Minimal,11,NK cells
+Sample6,19009,5202,-1,2,Minimal,10,NK cells
+Sample6,11649,4400,-1,2,Minimal,13,NK cells
+Sample6,767,535,-1,2,Minimal,8,MDSC
+Sample6,10125,3284,-1,2,Minimal,7,CD14
+Sample6,1096,657,-1,2,Minimal,8,CD16
+Sample6,17684,4415,-1,2,Minimal,19,DC
+Sample6,1571,774,-1,2,Minimal,8,MDSC
+Sample6,22982,5400,-1,2,Minimal,0,CD8+ T Cells
+Sample6,3561,1185,-1,2,Minimal,8,CD4+ T Cells
+Sample6,13059,4210,-1,2,Minimal,5,NK cells
+Sample6,26194,6126,-1,2,Minimal,10,CD8+ T Cells
+Sample6,4737,2257,-1,2,Minimal,5,GDT cells
+Sample6,1735,976,-1,2,Minimal,8,MDSC
+Sample6,1316,796,-1,2,Minimal,8,MDSC
+Sample6,743,487,-1,2,Minimal,8,MDSC
+Sample6,7226,2970,-1,2,Minimal,7,CD14
+Sample6,1648,845,-1,2,Minimal,8,CD16
+Sample6,611,499,-1,2,Minimal,8,MDSC
+Sample6,6005,2416,-1,2,Minimal,0,GDT cells
+Sample6,1183,774,-1,2,Minimal,8,MDSC
+Sample6,11406,4110,-1,2,Minimal,13,NKT Cells
+Sample6,11224,3583,-1,2,Minimal,7,CD14
+Sample6,17259,5086,-1,2,Minimal,5,NK cells
+Sample6,14951,4313,-1,2,Minimal,0,CD8+ T Cells
+Sample6,3391,1709,-1,2,Minimal,7,CD16
+Sample6,836,566,-1,2,Minimal,8,MDSC
+Sample6,815,595,-1,2,Minimal,8,MDSC
+Sample6,17597,5037,-1,2,Minimal,10,NK cells
+Sample6,22536,5158,-1,2,Minimal,7,intermediate monocytes
+Sample6,18177,4931,-1,2,Minimal,0,CD8+ T Cells
+Sample6,8540,2860,-1,2,Minimal,4,CD4+ T Cells
+Sample6,1614,839,-1,2,Minimal,8,MDSC
+Sample6,1226,843,-1,2,Minimal,8,MDSC
+Sample6,12976,4305,-1,2,Minimal,5,NKT Cells
+Sample6,9580,3304,-1,2,Minimal,7,intermediate monocytes
+Sample6,2588,1719,-1,2,Minimal,0,CD8+ T Cells
+Sample6,3578,1362,-1,2,Minimal,8,MDSC
+Sample6,9971,3510,-1,2,Minimal,5,NKT Cells
+Sample6,12784,4364,-1,2,Minimal,11,NKT Cells
+Sample6,20006,5066,-1,2,Minimal,7,CD14
+Sample6,11118,3783,-1,2,Minimal,5,NKT Cells
+Sample6,696,536,-1,2,Minimal,8,MDSC
+Sample6,1015,632,-1,2,Minimal,8,MDSC
+Sample6,10379,3805,-1,2,Minimal,13,NKT Cells
+Sample6,9822,3613,-1,2,Minimal,5,NKT Cells
+Sample6,2442,1091,-1,2,Minimal,8,MDSC
+Sample6,4875,2531,-1,2,Minimal,13,NK cells
+Sample6,21338,4858,-1,2,Minimal,7,CD14
+Sample6,7099,2916,-1,2,Minimal,7,CD16
+Sample6,12988,4360,-1,2,Minimal,13,NK cells
+Sample6,21360,4649,-1,2,Minimal,7,CD14
+Sample6,3007,1244,-1,2,Minimal,8,MDSC
+Sample6,17453,4982,-1,2,Minimal,19,DC
+Sample6,2449,1183,-1,2,Minimal,8,MDSC
+Sample6,729,570,-1,2,Minimal,8,MDSC
+Sample6,574,423,-1,2,Minimal,8,MDSC
+Sample6,25175,6523,-1,2,Minimal,13,NKT Cells
+Sample6,16289,4320,-1,2,Minimal,7,CD14
+Sample6,15824,4748,-1,2,Minimal,13,NK cells
+Sample6,13141,4099,-1,2,Minimal,0,NKT Cells
+Sample6,19661,4932,-1,2,Minimal,7,CD14
+Sample6,8394,3146,-1,2,Minimal,0,CD8+ T Cells
+Sample6,18645,4641,-1,2,Minimal,7,CD14
+Sample6,1064,808,-1,2,Minimal,8,CD14
+Sample6,5457,2118,-1,2,Minimal,7,CD14
+Sample6,22599,5503,-1,2,Minimal,13,NK cells
+Sample6,11163,3705,-1,2,Minimal,12,CD4+ T Cells
+Sample6,21818,5671,-1,2,Minimal,13,NKT Cells
+Sample6,26476,5962,-1,2,Minimal,11,NKT Cells
+Sample6,13736,4133,-1,2,Minimal,0,CD8+ T Cells
+Sample6,11119,3848,-1,2,Minimal,5,NKT Cells
+Sample6,12830,3915,-1,2,Minimal,7,intermediate monocytes
+Sample6,11474,3617,-1,2,Minimal,7,intermediate monocytes
+Sample6,17092,4594,-1,2,Minimal,7,intermediate monocytes
+Sample6,10161,3391,-1,2,Minimal,0,GDT cells
+Sample6,19766,4897,-1,2,Minimal,4,CD4+ T Cells
+Sample6,20367,5352,-1,2,Minimal,19,CD4+ T Cells
+Sample6,10535,3644,-1,2,Minimal,7,CD16
+Sample6,23853,5721,-1,2,Minimal,11,CD8+ T Cells
+Sample6,3180,1810,-1,2,Minimal,5,NK cells
+Sample6,11540,3552,-1,2,Minimal,4,CD8+ T Cells
+Sample6,1026,641,-1,2,Minimal,8,MDSC
+Sample6,3163,1190,-1,2,Minimal,8,MDSC
+Sample6,836,638,-1,2,Minimal,8,MDSC
+Sample6,15884,4564,-1,2,Minimal,0,CD8+ T Cells
+Sample6,13262,3976,-1,2,Minimal,7,CD14
+Sample6,15561,4796,-1,2,Minimal,11,NKT Cells
+Sample6,17834,4453,-1,2,Minimal,7,CD16
+Sample6,35390,6524,-1,2,Minimal,12,CD4+ T Cells
+Sample6,4922,2259,-1,2,Minimal,13,NK cells
+Sample6,11375,3948,-1,2,Minimal,5,NKT Cells
+Sample6,14819,4254,-1,2,Minimal,13,NK cells
+Sample6,1058,668,-1,2,Minimal,8,CD16
+Sample6,12896,4056,-1,2,Minimal,0,CD8+ T Cells
+Sample6,1178,659,-1,2,Minimal,8,CD16
+Sample6,8744,3509,-1,2,Minimal,10,CD8+ T Cells
+Sample6,48873,6918,-1,2,Minimal,7,intermediate monocytes
+Sample6,9970,3588,-1,2,Minimal,4,CD4+ T Cells
+Sample6,1093,783,-1,2,Minimal,8,MDSC
+Sample6,50048,6906,-1,2,Minimal,7,CD16
+Sample6,3257,1241,-1,2,Minimal,8,CD16
+Sample6,1714,884,-1,2,Minimal,8,MDSC
+Sample6,20544,5304,-1,2,Minimal,13,NKT Cells
+Sample6,14038,4303,-1,2,Minimal,0,CD8+ T Cells
+Sample6,15688,4890,-1,2,Minimal,13,NKT Cells
+Sample6,937,540,-1,2,Minimal,8,CD16
+Sample6,33992,6553,-1,2,Minimal,13,NKT Cells
+Sample6,14465,4299,-1,2,Minimal,7,CD14
+Sample6,14286,4063,-1,2,Minimal,7,intermediate monocytes
+Sample6,9367,3001,-1,2,Minimal,0,GDT cells
+Sample6,8217,2930,-1,2,Minimal,0,GDT cells
+Sample6,9351,3264,-1,2,Minimal,0,GDT cells
+Sample6,16459,4504,-1,2,Minimal,7,CD14
+Sample6,12053,4292,-1,2,Minimal,5,NK cells
+Sample6,5829,2595,-1,2,Minimal,8,MDSC
+Sample6,11536,3451,-1,2,Minimal,7,intermediate monocytes
+Sample6,41944,6749,-1,2,Minimal,7,CD14
+Sample6,14563,4652,-1,2,Minimal,13,NKT Cells
+Sample6,561,426,-1,2,Minimal,8,MDSC
+Sample6,17010,4469,-1,2,Minimal,7,CD14
+Sample6,8325,3381,-1,2,Minimal,13,NK cells
+Sample6,18187,5089,-1,2,Minimal,5,NKT Cells
+Sample6,571,435,-1,2,Minimal,8,MDSC
+Sample6,12885,3796,-1,2,Minimal,7,intermediate monocytes
+Sample6,1452,745,-1,2,Minimal,8,MDSC
+Sample6,13363,4164,-1,2,Minimal,0,CD8+ T Cells
+Sample6,1535,878,-1,2,Minimal,8,CD4+ T Cells
+Sample6,1767,956,-1,2,Minimal,8,MDSC
+Sample6,9632,3301,-1,2,Minimal,0,GDT cells
+Sample6,3589,1800,-1,2,Minimal,4,CD4+ T Cells
+Sample6,13014,4281,-1,2,Minimal,0,CD8+ T Cells
+Sample6,12909,4315,-1,2,Minimal,10,CD8+ T Cells
+Sample6,22458,5287,-1,2,Minimal,5,NKT Cells
+Sample6,8905,3397,-1,2,Minimal,5,NKT Cells
+Sample6,20275,5019,-1,2,Minimal,19,DC
+Sample6,630,493,-1,2,Minimal,8,MDSC
+Sample6,7717,3173,-1,2,Minimal,5,NK cells
+Sample6,10351,3875,-1,2,Minimal,5,NKT Cells
+Sample6,2980,1158,-1,2,Minimal,8,MDSC
+Sample6,18120,5014,-1,2,Minimal,11,NK cells
+Sample6,19073,4933,-1,2,Minimal,7,intermediate monocytes
+Sample6,8905,3534,-1,2,Minimal,0,CD8+ T Cells
+Sample6,28378,6209,-1,2,Minimal,5,NKT Cells
+Sample6,27079,6002,-1,2,Minimal,11,NKT Cells
+Sample6,534,440,-1,2,Minimal,8,CD16
+Sample6,30651,6072,-1,2,Minimal,10,CD8+ T Cells
+Sample6,20672,5302,-1,2,Minimal,13,NKT Cells
+Sample6,16673,4955,-1,2,Minimal,5,NK cells
+Sample6,11645,3687,-1,2,Minimal,7,intermediate monocytes
+Sample6,14154,4231,-1,2,Minimal,16,NKT Cells
+Sample6,1392,794,-1,2,Minimal,8,MDSC
+Sample6,12636,4539,-1,2,Minimal,13,NK cells
+Sample6,8043,3031,-1,2,Minimal,0,GDT cells
+Sample6,19666,5506,-1,2,Minimal,13,NKT Cells
+Sample6,8931,3390,-1,2,Minimal,5,NKT Cells
+Sample6,1304,708,-1,2,Minimal,8,MDSC
+Sample6,29573,6277,-1,2,Minimal,11,NK cells
+Sample6,21815,5075,-1,2,Minimal,7,intermediate monocytes
+Sample6,1227,733,-1,2,Minimal,8,MDSC
+Sample6,24326,5552,-1,2,Minimal,11,NK cells
+Sample6,33772,6449,-1,2,Minimal,7,CD4+ T Cells
+Sample6,10441,3414,-1,2,Minimal,0,GDT cells
+Sample6,3084,1690,-1,2,Minimal,15,GDT cells
+Sample6,519,441,-1,2,Minimal,8,CD16
+Sample6,14439,4072,-1,2,Minimal,7,CD14
+Sample6,5938,2440,-1,2,Minimal,0,GDT cells
+Sample6,11570,3484,-1,2,Minimal,7,CD16
+Sample6,4861,2193,-1,2,Minimal,5,GDT cells
+Sample6,1931,999,-1,2,Minimal,8,MDSC
+Sample6,4620,2248,-1,2,Minimal,0,GDT cells
+Sample7,19239,4967,0,4,Severe,16,NK cells
+Sample7,33343,6167,0,4,Severe,7,intermediate monocytes
+Sample7,8935,3364,0,4,Severe,4,CD4+ T Cells
+Sample7,8033,3256,0,4,Severe,13,NK cells
+Sample7,7024,2925,0,4,Severe,5,NK cells
+Sample7,14714,4306,0,4,Severe,7,CD14
+Sample7,17913,5044,0,4,Severe,16,NKT Cells
+Sample7,2864,1417,0,4,Severe,4,CD4+ T Cells
+Sample7,26104,6121,0,4,Severe,13,NKT Cells
+Sample7,12611,4117,0,4,Severe,16,NKT Cells
+Sample7,10280,3605,0,4,Severe,0,GDT cells
+Sample7,16201,4631,0,4,Severe,7,intermediate monocytes
+Sample7,38377,6984,0,4,Severe,13,NKT Cells
+Sample7,10478,3722,0,4,Severe,16,NKT Cells
+Sample7,20157,5108,0,4,Severe,13,NKT Cells
+Sample7,16437,4391,0,4,Severe,0,CD8+ T Cells
+Sample7,17680,5122,0,4,Severe,11,NK cells
+Sample7,13900,4321,0,4,Severe,13,NKT Cells
+Sample7,11072,3742,0,4,Severe,0,GDT cells
+Sample7,15595,4305,0,4,Severe,12,CD4+ T Cells
+Sample7,14844,4587,0,4,Severe,0,CD8+ T Cells
+Sample7,27031,6035,0,4,Severe,13,NKT Cells
+Sample7,14546,4734,0,4,Severe,13,NKT Cells
+Sample7,23908,5539,0,4,Severe,5,NKT Cells
+Sample7,8699,3326,0,4,Severe,5,NKT Cells
+Sample7,67447,8304,0,4,Severe,13,NKT Cells
+Sample7,19124,4848,0,4,Severe,12,CD4+ T Cells
+Sample7,19940,5215,0,4,Severe,13,NKT Cells
+Sample7,16580,4898,0,4,Severe,0,CD8+ T Cells
+Sample7,14066,3952,0,4,Severe,7,CD14
+Sample7,13071,4229,0,4,Severe,0,CD8+ T Cells
+Sample7,17635,5127,0,4,Severe,11,NK cells
+Sample7,34031,6351,0,4,Severe,7,intermediate monocytes
+Sample7,1984,796,0,4,Severe,4,CD4+ T Cells
+Sample7,1330,693,0,4,Severe,7,intermediate monocytes
+Sample7,12179,3916,0,4,Severe,7,CD14
+Sample7,31438,5705,0,4,Severe,0,CD8+ T Cells
+Sample7,17821,5087,0,4,Severe,13,NK cells
+Sample7,42401,7448,0,4,Severe,13,CD8+ T Cells
+Sample7,48735,7517,0,4,Severe,11,NKT Cells
+Sample7,77014,7688,0,4,Severe,18,Plasma Cells
+Sample7,15722,4407,0,4,Severe,7,intermediate monocytes
+Sample7,20280,4665,0,4,Severe,7,CD14
+Sample7,8824,3548,0,4,Severe,0,CD8+ T Cells
+Sample7,7100,2717,0,4,Severe,0,CD8+ T Cells
+Sample7,4587,2077,0,4,Severe,12,CD4+ T Cells
+Sample7,10366,3535,0,4,Severe,4,CD4+ T Cells
+Sample7,21898,5081,0,4,Severe,7,CD14
+Sample7,8200,3077,0,4,Severe,4,CD4+ T Cells
+Sample7,21913,5674,0,4,Severe,11,NK cells
+Sample7,19153,4839,0,4,Severe,16,NKT Cells
+Sample7,21274,5203,0,4,Severe,7,intermediate monocytes
+Sample7,20192,5158,0,4,Severe,4,CD4+ T Cells
+Sample7,11208,4054,0,4,Severe,5,NKT Cells
+Sample7,50289,6673,0,4,Severe,18,Plasma Cells
+Sample7,13930,4508,0,4,Severe,10,CD8+ T Cells
+Sample7,19685,5396,0,4,Severe,10,CD8+ T Cells
+Sample7,15281,4823,0,4,Severe,13,NKT Cells
+Sample7,13575,3453,0,4,Severe,18,Plasma Cells
+Sample7,41884,6827,0,4,Severe,7,intermediate monocytes
+Sample7,9217,3580,0,4,Severe,5,NKT Cells
+Sample7,14861,4258,0,4,Severe,7,CD14
+Sample7,20041,4827,0,4,Severe,4,CD4+ T Cells
+Sample7,28994,6031,0,4,Severe,5,NKT Cells
+Sample7,23058,5676,0,4,Severe,13,NKT Cells
+Sample7,12595,4212,0,4,Severe,0,CD8+ T Cells
+Sample7,25148,5873,0,4,Severe,11,CD8+ T Cells
+Sample7,9147,3241,0,4,Severe,0,GDT cells
+Sample7,12073,3814,0,4,Severe,7,CD14
+Sample7,9423,3334,0,4,Severe,4,CD4+ T Cells
+Sample7,11105,3840,0,4,Severe,16,NKT Cells
+Sample7,19617,4736,0,4,Severe,7,intermediate monocytes
+Sample7,28749,5929,0,4,Severe,7,CD14
+Sample7,24180,5918,0,4,Severe,13,NKT Cells
+Sample7,23918,5226,0,4,Severe,17,CD8+ T Cells
+Sample7,13175,4355,0,4,Severe,13,NK cells
+Sample7,24355,5401,0,4,Severe,7,intermediate monocytes
+Sample7,32716,6721,0,4,Severe,11,CD8+ T Cells
+Sample7,14326,4207,0,4,Severe,0,CD8+ T Cells
+Sample7,12597,4004,0,4,Severe,0,GDT cells
+Sample7,16444,4649,0,4,Severe,0,CD8+ T Cells
+Sample7,13640,4018,0,4,Severe,0,CD8+ T Cells
+Sample7,20370,5404,0,4,Severe,13,NKT Cells
+Sample7,12144,3881,0,4,Severe,0,CD8+ T Cells
+Sample7,20020,5115,0,4,Severe,18,Plasma Cells
+Sample7,8867,3381,0,4,Severe,16,NKT Cells
+Sample7,13687,4129,0,4,Severe,7,CD14
+Sample7,14094,4365,0,4,Severe,0,CD8+ T Cells
+Sample7,13827,4034,0,4,Severe,0,CD8+ T Cells
+Sample7,30171,6383,0,4,Severe,11,CD8+ T Cells
+Sample7,8825,3350,0,4,Severe,12,CD4+ T Cells
+Sample7,29414,5900,0,4,Severe,7,intermediate monocytes
+Sample7,8867,3063,0,4,Severe,0,GDT cells
+Sample7,18803,4823,0,4,Severe,4,CD4+ T Cells
+Sample7,13863,4433,0,4,Severe,10,CD8+ T Cells
+Sample7,9718,3455,0,4,Severe,0,CD8+ T Cells
+Sample7,20396,5414,0,4,Severe,11,NKT Cells
+Sample7,11179,4000,0,4,Severe,4,CD4+ T Cells
+Sample7,9213,3282,0,4,Severe,12,CD4+ T Cells
+Sample7,8984,3224,0,4,Severe,7,CD14
+Sample7,18760,4654,0,4,Severe,4,CD4+ T Cells
+Sample7,13108,4176,0,4,Severe,16,NK cells
+Sample7,11041,3821,0,4,Severe,5,NKT Cells
+Sample7,16053,4890,0,4,Severe,10,CD8+ T Cells
+Sample7,64923,7688,0,4,Severe,18,Plasma Cells
+Sample7,2612,1598,0,4,Severe,0,CD8+ T Cells
+Sample7,24204,5450,0,4,Severe,7,intermediate monocytes
+Sample7,25040,6026,0,4,Severe,11,CD8+ T Cells
+Sample7,16712,4875,0,4,Severe,0,CD8+ T Cells
+Sample7,34863,6305,0,4,Severe,0,CD8+ T Cells
+Sample7,21283,5561,0,4,Severe,11,CD8+ T Cells
+Sample7,12163,3734,0,4,Severe,0,GDT cells
+Sample7,16971,5031,0,4,Severe,11,CD8+ T Cells
+Sample7,22181,5575,0,4,Severe,13,NKT Cells
+Sample7,29125,6386,0,4,Severe,11,CD8+ T Cells
+Sample7,52835,7084,0,4,Severe,18,Plasma Cells
+Sample7,21021,5551,0,4,Severe,13,NKT Cells
+Sample7,13247,3813,0,4,Severe,1,Memory B Cell
+Sample7,6838,3063,0,4,Severe,5,NKT Cells
+Sample7,8432,3314,0,4,Severe,0,CD8+ T Cells
+Sample7,28317,5492,0,4,Severe,7,CD16
+Sample7,10647,3636,0,4,Severe,7,CD16
+Sample7,3395,1869,0,4,Severe,5,NK cells
+Sample7,7239,2729,0,4,Severe,4,CD4+ T Cells
+Sample7,11561,3926,0,4,Severe,0,CD8+ T Cells
+Sample7,23317,5803,0,4,Severe,10,CD8+ T Cells
+Sample7,14444,4395,0,4,Severe,16,NKT Cells
+Sample7,11512,3745,0,4,Severe,7,intermediate monocytes
+Sample7,19468,5210,0,4,Severe,13,NKT Cells
+Sample7,18625,5057,0,4,Severe,0,CD8+ T Cells
+Sample7,10738,3740,0,4,Severe,4,CD4+ T Cells
+Sample7,24413,5312,0,4,Severe,7,intermediate monocytes
+Sample7,15051,4252,0,4,Severe,7,intermediate monocytes
+Sample7,20821,5267,0,4,Severe,16,NKT Cells
+Sample7,19986,5235,0,4,Severe,13,NK cells
+Sample7,13214,3881,0,4,Severe,7,CD14
+Sample7,12890,4108,0,4,Severe,0,CD8+ T Cells
+Sample7,20574,4571,0,4,Severe,7,intermediate monocytes
+Sample7,15707,3655,0,4,Severe,17,CD8+ T Cells
+Sample7,9831,3582,0,4,Severe,5,NK cells
+Sample7,15263,4865,0,4,Severe,13,NKT Cells
+Sample7,16614,4828,0,4,Severe,16,NKT Cells
+Sample7,6927,2877,0,4,Severe,12,CD4+ T Cells
+Sample7,40072,6260,0,4,Severe,1,Memory B Cell
+Sample7,9138,3337,0,4,Severe,7,CD16
+Sample7,19185,4921,0,4,Severe,0,CD8+ T Cells
+Sample7,17080,4129,0,4,Severe,7,intermediate monocytes
+Sample8,10727,3345,-1,2,Minimal,7,CD16
+Sample8,5746,2471,-1,2,Minimal,3,Immature B cells
+Sample8,3675,1955,-1,2,Minimal,3,Immature B cells
+Sample8,3826,1722,-1,2,Minimal,6,Immature B cells
+Sample8,2259,1359,-1,2,Minimal,3,Immature B cells
+Sample8,8791,3169,-1,2,Minimal,15,CD4+ T Cells
+Sample8,4906,2186,-1,2,Minimal,3,Immature B cells
+Sample8,7211,2887,-1,2,Minimal,12,CD4+ T Cells
+Sample8,7374,2940,-1,2,Minimal,3,Immature B cells
+Sample8,5557,2403,-1,2,Minimal,1,Immature B cells
+Sample8,10605,3972,-1,2,Minimal,12,CD4+ T Cells
+Sample8,6530,2313,-1,2,Minimal,4,CD4+ T Cells
+Sample8,3659,1865,-1,2,Minimal,1,Immature B cells
+Sample8,2008,1287,-1,2,Minimal,5,NK cells
+Sample8,7637,3156,-1,2,Minimal,12,CD4+ T Cells
+Sample8,6078,2788,-1,2,Minimal,3,Immature B cells
+Sample8,9437,3449,-1,2,Minimal,12,CD4+ T Cells
+Sample8,9856,3382,-1,2,Minimal,3,Immature B cells
+Sample8,5057,1963,-1,2,Minimal,12,CD4+ T Cells
+Sample8,15622,4732,-1,2,Minimal,1,Immature B cells
+Sample8,16529,5176,-1,2,Minimal,12,CD4+ T Cells
+Sample8,6512,2658,-1,2,Minimal,3,Immature B cells
+Sample8,10347,3582,-1,2,Minimal,1,Immature B cells
+Sample8,11806,3824,-1,2,Minimal,3,Immature B cells
+Sample8,20951,5190,-1,2,Minimal,1,Immature B cells
+Sample8,13374,4266,-1,2,Minimal,11,Bcell
+Sample8,6880,2657,-1,2,Minimal,12,CD4+ T Cells
+Sample8,12208,3633,-1,2,Minimal,1,Immature B cells
+Sample8,2372,1481,-1,2,Minimal,5,NK cells
+Sample8,10449,3934,-1,2,Minimal,1,Immature B cells
+Sample8,10988,3240,-1,2,Minimal,6,Immature B cells
+Sample8,8510,3079,-1,2,Minimal,10,Bcell
+Sample8,6032,2718,-1,2,Minimal,1,CD4+ T Cells
+Sample8,9548,3292,-1,2,Minimal,15,CD4+ T Cells
+Sample8,8689,3304,-1,2,Minimal,3,Immature B cells
+Sample8,5251,2638,-1,2,Minimal,15,CD4+ T Cells
+Sample8,8805,3128,-1,2,Minimal,12,CD4+ T Cells
+Sample8,4962,2363,-1,2,Minimal,3,Immature B cells
+Sample8,8064,3041,-1,2,Minimal,7,intermediate monocytes
+Sample8,6119,2356,-1,2,Minimal,12,CD4+ T Cells
+Sample8,13370,4139,-1,2,Minimal,6,Immature B cells
+Sample8,9614,3243,-1,2,Minimal,3,Immature B cells
+Sample8,9413,3290,-1,2,Minimal,3,Immature B cells
+Sample8,5555,2468,-1,2,Minimal,3,Immature B cells
+Sample8,6938,2772,-1,2,Minimal,0,CD8+ T Cells
+Sample8,7405,2730,-1,2,Minimal,12,CD4+ T Cells
+Sample8,18090,4713,-1,2,Minimal,1,Immature B cells
+Sample8,15600,4469,-1,2,Minimal,6,Immature B cells
+Sample8,5753,2309,-1,2,Minimal,4,CD4+ T Cells
+Sample8,17707,4676,-1,2,Minimal,7,intermediate monocytes
+Sample8,9682,2517,-1,2,Minimal,6,Immature B cells
+Sample8,8308,3014,-1,2,Minimal,12,CD4+ T Cells
+Sample8,3117,1776,-1,2,Minimal,5,NK cells
+Sample8,1080,733,-1,2,Minimal,4,CD4+ T Cells
+Sample8,5969,2280,-1,2,Minimal,6,Immature B cells
+Sample8,5553,2542,-1,2,Minimal,1,Immature B cells
+Sample8,4471,2065,-1,2,Minimal,7,intermediate monocytes
+Sample8,4744,1989,-1,2,Minimal,7,intermediate monocytes
+Sample8,3784,1994,-1,2,Minimal,1,Immature B cells
+Sample8,6493,2709,-1,2,Minimal,7,intermediate monocytes
+Sample8,14264,4370,-1,2,Minimal,6,Immature B cells
+Sample8,11791,3631,-1,2,Minimal,3,Immature B cells
+Sample8,4940,2366,-1,2,Minimal,1,Immature B cells
+Sample8,8976,3429,-1,2,Minimal,1,Immature B cells
+Sample8,6568,2497,-1,2,Minimal,4,CD4+ T Cells
+Sample8,1753,1138,-1,2,Minimal,2,Immature B cells
+Sample8,11651,3853,-1,2,Minimal,6,Immature B cells
+Sample8,9370,3428,-1,2,Minimal,12,CD4+ T Cells
+Sample8,6289,2453,-1,2,Minimal,12,CD4+ T Cells
+Sample8,17734,4571,-1,2,Minimal,7,CD16
+Sample8,6806,2361,-1,2,Minimal,6,Immature B cells
+Sample8,34780,6582,-1,2,Minimal,11,Bcell
+Sample8,2733,1457,-1,2,Minimal,6,Immature B cells
+Sample8,4756,2220,-1,2,Minimal,3,Immature B cells
+Sample8,5148,2354,-1,2,Minimal,1,Immature B cells
+Sample8,27234,6098,-1,2,Minimal,10,Bcell
+Sample8,9788,3303,-1,2,Minimal,6,Immature B cells
+Sample8,1806,1155,-1,2,Minimal,8,CD14
+Sample8,13296,3890,-1,2,Minimal,7,intermediate monocytes
+Sample8,10327,3404,-1,2,Minimal,3,Immature B cells
+Sample8,6479,2627,-1,2,Minimal,12,CD4+ T Cells
+Sample8,9613,3192,-1,2,Minimal,12,CD4+ T Cells
+Sample8,14447,4510,-1,2,Minimal,4,CD4+ T Cells
+Sample8,13123,4222,-1,2,Minimal,1,Immature B cells
+Sample8,1960,1214,-1,2,Minimal,8,MDSC
+Sample8,6685,2763,-1,2,Minimal,6,Immature B cells
+Sample8,16736,4861,-1,2,Minimal,4,CD4+ T Cells
+Sample8,8774,3031,-1,2,Minimal,15,CD4+ T Cells
+Sample8,3989,2047,-1,2,Minimal,3,Immature B cells
+Sample8,727,547,-1,2,Minimal,2,CD4+ T Cells
+Sample8,7856,2856,-1,2,Minimal,4,CD4+ T Cells
+Sample8,15445,4460,-1,2,Minimal,1,Immature B cells
+Sample8,7752,3193,-1,2,Minimal,4,CD4+ T Cells
+Sample8,4431,2217,-1,2,Minimal,3,Immature B cells
+Sample8,9191,3336,-1,2,Minimal,3,Immature B cells
+Sample8,6600,2778,-1,2,Minimal,12,CD4+ T Cells
+Sample8,9224,3032,-1,2,Minimal,1,Immature B cells
+Sample8,7514,2913,-1,2,Minimal,7,CD14
+Sample8,3003,1652,-1,2,Minimal,1,Immature B cells
+Sample8,6973,2545,-1,2,Minimal,4,CD4+ T Cells
+Sample8,7976,2994,-1,2,Minimal,15,CD4+ T Cells
+Sample8,7731,3014,-1,2,Minimal,4,CD4+ T Cells
+Sample8,9838,3521,-1,2,Minimal,3,Immature B cells
+Sample8,7768,3035,-1,2,Minimal,1,Immature B cells
+Sample8,8503,3324,-1,2,Minimal,3,Immature B cells
+Sample9,29067,5716,0,4,Severe,10,CD8+ T Cells
+Sample9,1328,736,0,4,Severe,8,MDSC
+Sample9,30429,6176,0,4,Severe,10,CD8+ T Cells
+Sample9,28846,5683,0,4,Severe,7,intermediate monocytes
+Sample9,23196,4800,0,4,Severe,4,CD4+ T Cells
+Sample9,33456,6059,0,4,Severe,19,DC
+Sample9,10461,3515,0,4,Severe,12,CD4+ T Cells
+Sample9,30205,5925,0,4,Severe,0,CD8+ T Cells
+Sample9,17618,4516,0,4,Severe,0,CD8+ T Cells
+Sample9,11930,3652,0,4,Severe,0,CD8+ T Cells
+Sample9,1012,574,0,4,Severe,8,MDSC
+Sample9,7160,2676,0,4,Severe,5,NKT Cells
+Sample9,14626,4411,0,4,Severe,0,CD8+ T Cells
+Sample9,5565,2165,0,4,Severe,15,CD4+ T Cells
+Sample9,20823,4742,0,4,Severe,4,CD4+ T Cells
+Sample9,954,427,0,4,Severe,8,MDSC
+Sample9,6344,1836,0,4,Severe,4,CD4+ T Cells
+Sample9,9842,3311,0,4,Severe,7,CD16
+Sample9,21652,4836,0,4,Severe,17,CD8+ T Cells
+Sample9,48329,7188,0,4,Severe,7,DC
+Sample9,12595,3379,0,4,Severe,15,CD4+ T Cells
+Sample9,27997,5729,0,4,Severe,12,CD4+ T Cells
+Sample9,50609,7410,0,4,Severe,19,DC
+Sample9,28738,5667,0,4,Severe,7,CD14
+Sample9,16697,4376,0,4,Severe,0,CD8+ T Cells
+Sample9,10304,3694,0,4,Severe,5,NKT Cells
+Sample9,17988,4094,0,4,Severe,4,CD4+ T Cells
+Sample9,904,484,0,4,Severe,8,MDSC
+Sample9,29329,5078,0,4,Severe,19,DC
+Sample9,28664,5324,0,4,Severe,1,Memory B Cell
+Sample9,20861,5011,0,4,Severe,16,NKT Cells
+Sample9,1336,660,0,4,Severe,8,MDSC
+Sample9,7296,2622,0,4,Severe,12,CD4+ T Cells
+Sample9,26287,5233,0,4,Severe,7,intermediate monocytes
+Sample9,13783,3736,0,4,Severe,4,CD4+ T Cells
+Sample9,4058,1314,0,4,Severe,8,MDSC
+Sample9,1259,701,0,4,Severe,8,MDSC
+Sample9,13337,3370,0,4,Severe,4,CD4+ T Cells
+Sample9,16227,4066,0,4,Severe,15,CD4+ T Cells
+Sample9,57708,7757,0,4,Severe,10,CD8+ T Cells
+Sample9,12859,3258,0,4,Severe,4,CD4+ T Cells
+Sample9,14823,3738,0,4,Severe,4,CD4+ T Cells
+Sample9,11069,2854,0,4,Severe,15,CD4+ T Cells
+Sample9,15432,4745,0,4,Severe,13,NKT Cells
+Sample9,24961,5337,0,4,Severe,7,CD14
+Sample9,1271,728,0,4,Severe,7,CD16
+Sample9,59376,7641,0,4,Severe,11,CD8+ T Cells
+Sample9,19774,5018,0,4,Severe,5,NKT Cells
+Sample9,9892,2827,0,4,Severe,12,CD4+ T Cells
+Sample9,8065,2440,0,4,Severe,12,CD4+ T Cells
+Sample9,26948,5434,0,4,Severe,4,CD4+ T Cells
+Sample9,19577,4521,0,4,Severe,7,CD14
+Sample9,940,558,0,4,Severe,8,CD14
+Sample9,24465,5238,0,4,Severe,7,CD14
+Sample9,42556,6718,0,4,Severe,19,DC
+Sample9,21223,4428,0,4,Severe,19,DC
+Sample9,37682,6391,0,4,Severe,19,DC
+Sample9,26914,5394,0,4,Severe,18,Plasma Cells
+Sample9,6166,2368,0,4,Severe,5,NKT Cells
+Sample9,13436,3525,0,4,Severe,4,CD4+ T Cells
+Sample9,10100,2733,0,4,Severe,15,CD4+ T Cells
+Sample9,8092,2763,0,4,Severe,12,CD4+ T Cells
+Sample9,6412,2528,0,4,Severe,5,NKT Cells
+Sample9,35880,5155,0,4,Severe,18,Plasma Cells
+Sample9,11103,3769,0,4,Severe,5,NKT Cells
+Sample9,1787,790,0,4,Severe,8,MDSC
+Sample9,6677,2526,0,4,Severe,4,CD4+ T Cells
+Sample9,10896,2920,0,4,Severe,4,CD4+ T Cells
